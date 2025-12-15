@@ -952,7 +952,7 @@ Both across the myths -- as titans and giants, -- and as dragons of this cosmogo
 
 This, as stated earlier, requires us to look for other potential candidates at a role of titans across the timeline to fulfill similar role.
 
-We will make our _current working assumtion_, based on the above motif of stone, serenity, and in less explored manner, rage, that __titans are a colloqual term for tortomega civilization__, with an unresolved quation of nature of titans found in [Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail): `A legendary suit of armor said to imbue the wearer with the rage of the titans`.
+We will make our _current working assumtion_, based on the above motif of stone, serenity, and in less explored manner, rage, that __titans are a colloqual term for tortomega civilization__, identified by rage.
 
 #### Veiled Tortodrone Homeland
 
@@ -1002,11 +1002,11 @@ It is most evident that equipment found in [Rage Prize Box](https://wiki.spiralk
 
 As we have established initial relation [between stone, tortoises and tortomega](#omega-shell-and-tortomega), we found an image of a civilization of sentient giant tortoises, tortomega -- descendants of drakes, and far descendants of dragons of rage through [consistent motif of rage](#unreconciled-duality-of-fury-and-serenity) within tortodrones and their equipment, as pointers to an inherently rageous nature of those specie.
 
-While we were searching for the identity of titans, we have proposed their nature to be tortomega through [motifs and applications surrounding the material of stone](#motif-of-stone-and-serenity-titans). We had pointed out a notion of [draconic creation myth](#creation-myth-dragons-as-cosmic-progenitors) to resemble other real-world creation myths, which had allowed us to suggest a reason for dragons to perish in the first place -- a conflict would take place between dragon deities and other faction of formidable power, which would come on top.
+While we were searching for the identity of titans, we have proposed their nature to be tortomega through [motifs and applications surrounding the material of stone](#motif-of-stone-and-serenity-titans). We had pointed out a notion of [draconic creation myth](#creation-myth-dragons-as-cosmic-progenitors) to resemble other real-world creation myths, which had allowed us to suggest a reason for dragons to perish in the first place -- a conflict would take place between dragon deities and other faction of formidable power, which would come on top and dragons being considered extinct.
 
-This confict was proposed in the [lesser creation myth](#lesser-creaton-myth), where we have linked rider gods and Olympian pantheon, immitating a paradigm shift found through Olympian gods' establishment after the rebelion against greek Titans.
+This confict of deity-like factions was proposed in the [lesser creation myth](#lesser-creaton-myth), where we have linked _Rider gods_ to _Olympian pantheon_, immitating a paradigm shift found through Olympian gods' establishment of supreme power after their rebellion against greek Titans.
 
-This faction's lightning-based designs are particularly similar to Valkyrian and Spiral Order gear in their respective design elements and mythological contexts. In order to establish those similarities, we will elaborate on the Valkyrian gear, as we reference equipment associated with frenzy, rage and storms:
+This faction's lightning-based designs are particularly similar to Valkyrian and Spiral Order gear in their respective design elements and mythological contexts, which we will now elaborate upon. In order to establish those similarities, we will elaborate on the Valkyrian gear, as we reference equipment associated with frenzy, rage and storms:
 
 - `A priceless helmet whose name denizens of the Underworld dare not mention` ([Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)).
 
@@ -1018,20 +1018,22 @@ This faction's lightning-based designs are particularly similar to Valkyrian and
 
   This equipment has distinct [round helm design](https://wiki.spiralknights.com/Spiral_Round_Helm) and back wings identical to [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm): `A beautiful helm made to resemble a heavenly guardian`.
 
-  As heavenly guardians are mentioned in both instances, it is most plausible that this civilization had existed for a long enough period of time for those designs to be incorporated into their culture, mostplausiblyreferring the same civilization at different points in time.
+  As heavenly guardians are mentioned in both instances, it is most plausible that this civilization had existed for a long enough period of time for those designs to be incorporated into their culture, mostplausibly referring the same civilization at different points in time.
 
 - `The helm of one who defied the gods and stormed/razed the gates of a heavenly kingdom` ([Champion Helm](https://wiki.spiralknights.com/Champion_Helm)), suggests an existence of a faction possessing same power of elements as the `heavenly guardians` ([Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm)), but being at conflict with them in order to _storm and then raze_ `the gates of a heavenly kingdom`:
 
   - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say the thunderclaps are the eternal echoes of her siege` ([Storm Champion Helm](https://wiki.spiralknights.com/Storm_Champion_Helm#Storm_Champion_Helm)).
   - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say that whistling wings are the eternal warcries of her siege` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)).
 
-  As the helm belongs to `one who defied the gods`, and [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) define at least one god to carve ambigious worlds with depiction an armor of impressive design and craftsmanship, we would suggest that _the term of a heavenly kingdom_ in this context __implies a literal kingdom__.
+  This association of forces of nature with a distinct human event frames it in a tone of a myth, elevating it above its instances due to seemingly deific nature its parties.
 
-  Those details are not characteristic of dragons, as those are depicted as more _animalistic yet powerful beings or even forces of nature_.
+  As the helm belongs to `one who defied the gods`, and [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) define at least one god to carve ambigious worlds with depiction an armor of complex design, we would suggest that _the term of a heavenly kingdom_ in this context __implies a literal kingdom__, _with divinity attributed to it in the same capacity as its heaven-based location_.
 
-  The Champion Helm is similar to [Ancient Plate Helm](https://wiki.spiralknights.com/Ancient_Plate_Helm) whose belonging was rather ambiguous due to unknown origin and themes, yet those plated helms, including [Volcanic Plate Helm](https://wiki.spiralknights.com/Volcanic_Plate_Helm) possess a unique for them face plate of 2 vertical colums of 2 occulariums. We wkeep this design in mind as we get to the analysis of [volcanic gear](#volcanic-elements).
+  Those details are not characteristic of dragons, if we woild propose them to be that opposing force, as dargons are depicted as more _animalistic yet powerful beings or even forces of nature_.
 
-  Overall theme of heavenly kingdom and valkyries seem to point that the kingdom in question and valkyries being its guardians, is a stand-in for, fittingly, __Valhalla__.
+  The Champion Helm is similar to [Ancient Plate Helm](https://wiki.spiralknights.com/Ancient_Plate_Helm) whose belonging was rather ambiguous due to unknown origin and themes, yet plated helms, including [Volcanic Plate Helm](https://wiki.spiralknights.com/Volcanic_Plate_Helm) possess a unique for them face plate of 2 vertical colums of 2 occulariums. We wkeep this design in mind as we get to the analysis of [volcanic gear](#volcanic-elements).
+
+  The theme and naming convention of heavenly kingdom and valkyries seem to suggest that the kingdom in question and _valkyries being its guardians are this Universe's stand-in for_ __Valhalla__.
 
 - [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) have prismatic elements incorporated in their designs, specifically, [wings of fury, storms and frenzy](https://wiki.spiralknights.com/Wings_of_Fury#Wings_of_Fury) or [regular prismatic wings](https://wiki.spiralknights.com/Wings).
 
@@ -1058,7 +1060,7 @@ This faction's lightning-based designs are particularly similar to Valkyrian and
 
 If Spiral Order was at some point related to heavenly kingdom, it must have happened far into the past, which would require then an in-depth explanation and solid reason for the design similarities.
 
-This scenario is possible if the equipment is _anatomically adapted to fit species of Spiral Order_, with the original designs being relatively similar. We suggest such explanation due to explicit case of [gremlin suit](https://wiki.spiralknights.com/Gremlin_Suit): `A special suit tailored by a gremlin's touch to fit the frame of a knight`, and [Owlite robes](https://wiki.spiralknights.com/Owlite_Robe): `A costume recreation of the fine robes worn by Owlites, based on the most recent archaeological findings`. Such cases anounce a theme of _Spiral Order incorporating other civilizations' designs into their equipment_.
+This scenario is possible if the equipment is _anatomically and thematically adapted to fit species of Spiral Order_, with the original designs being relatively similar. We suggest such explanation due to explicit case of [gremlin suit](https://wiki.spiralknights.com/Gremlin_Suit): `A special suit tailored by a gremlin's touch to fit the frame of a knight`, and [Owlite robes](https://wiki.spiralknights.com/Owlite_Robe): `A costume recreation of the fine robes worn by Owlites, based on the most recent archaeological findings`. Such cases anounce a theme of _Spiral Order incorporating other civilizations' designs into their equipment_.
 
 Within the existing roster of transmutable armors [cobalt armors](https://wiki.spiralknights.com/Cobalt_Armor) and [padded armors](https://wiki.spiralknights.com/Padded_Armor) are the most distinct Spiral Order designs, which are thematically different from mythological themes of heavenly warriors. We will keep this potential notion in mind, until we will cover both parties.
 
@@ -1074,7 +1076,7 @@ Those handguns possess multiple damage types, while modern Spiral Order is mostl
 
 With those disperse elements we can construct an image of an ancient civilization of Valkyries, reminiscent of Olympian pantheon, possessing same as deific dragons elements of storms, rage and frenzy, and residing within and guarding the fortress of the heavenly kingdom.
 
-With the descriptions of both creation myths, we derive a narrative where dragons were hunted as divine species, with the hunters being the other civilization of potentially anthrpomorphic gods which had "carved worlds from stone."
+With the descriptions of both creation myths, we derive a narrative where dragons were hunted as divine species, with the hunters being the other civilization of gods which had "carved worlds from stone."
 
 With this, there is a subtle link between Owlites as a single avian civilization and Valkyries.
 
@@ -1888,78 +1890,108 @@ Due to those factors, we suggest, that if we ever to place Morai into this entit
 
 #### Isora and Cradle
 
-As Isorans are a spacefaring civilization, we will discuss further several similarities between Cradle and Isorans in attempt to identify the nature of this relation.
+As Isorans are a spacefaring civilization, we will discuss further several similarities between Cradle and Isorans in attempt to identify the nature of this relation, and subsequenly, _underlying thematic similarities and conflicts_.
 
-##### Spiral Raiders
+##### Mythological Framing of Spiral Raiders
 
-Across Raiders' equipment, [Raider Buckler](https://wiki.spiralknights.com/Raider_Buckler) has the same Spiral Order symbol, but seems to be from a different period of time, preceding the celestial items. This can be resolved it 2 ways:
+Raider equipment of [Raider prize box](https://wiki.spiralknights.com/Raiders_Prize_Box) has imagery of Spiral Order, of a horse head, on it, such as:
+
+- [Raider Buckler](https://wiki.spiralknights.com/Raider_Buckler)
+- [Raider prize box](https://wiki.spiralknights.com/Raiders_Prize_Box) itself
+- Spiral imagery of [Raider Tunic](https://wiki.spiralknights.com/Raider_Tunic) on its shoulder pad and belt
+- [Raider Helm Crest](https://wiki.spiralknights.com/Raider_Helm_Crest), identified as the crest
+- [Squall Caller](https://wiki.spiralknights.com/Squall_Caller) possessing symbol of energy
+
+This can be resolved it 2 ways:
 
 1. Spiral imagery is seen in celestial equipment, suggesting that it was utilized by Isorans from very early times, during the less technologically advanced age, one inspired by northern or scandinavian cultures. This _similarity to Valkyries_ and heavenly kingdom will be kept in mind.
-2. It is not of native Isoran origin. It seem that at least a few other items could support that theory, - [Raiders Prize Box](https://wiki.spiralknights.com/Raiders_Prize_Box) has [Firestorm Raider Tunic](https://wiki.spiralknights.com/Firestorm_Raider_Tunic#Firestorm_Raider_Tunic): `Treasure is at your fingertips and ash in your wake with this soot laden coat`, [Firestorm Raider Helm](https://wiki.spiralknights.com/Firestorm_Raider_Helm#Firestorm_Raider_Helm): `A pristine raider helmet, save for a few dings and a thick coat of ash`, and [Firestorm Skeggox](https://wiki.spiralknights.com/Firestorm_Skeggox): `An ornate, fiery axe favored by raiders for its versatility`, - these items of raider roster have fiery/ash themes, and as the name itself suggest, are meant to be associated with the Firestorm Citadel, or, although less likely, [firestorm skill](https://wiki.spiralknights.com/Firestorm) of [drakon](https://wiki.spiralknights.com/Drakon), which is also referencing dragons: `Summon the power of true dragon fire to burn everything in your path`.
+2. Raider equipment is not native to Isorans, but originates from the same species and period f time Almire belongs.
 
-Note that there is gear of other elements: of frost and squall. Weather those elements are related to original three of dragons - rage, frenzy, storms, - is unlikely, but the pattern itself of naming common elements differently seems to be present also here.
+  - `Treasure is at your fingertips and ash in your wake with this soot laden coat`
+   ([Firestorm Raider Tunic](https://wiki.spiralknights.com/Firestorm_Raider_Tunic#Firestorm_Raider_Tunic))
+   - `A pristine raider helmet, save for a few dings and a thick coat of ash` ([Firestorm Raider Helm](https://wiki.spiralknights.com/Firestorm_Raider_Helm#Firestorm_Raider_Helm))
+   - `An ornate, fiery axe favored by raiders for its versatility` ([Firestorm Skeggox](https://wiki.spiralknights.com/Firestorm_Skeggox))
 
-All of these items have spiral imagery: as weapons have spiral carved onto them, and costumes have spiral on their belt and other elements of equipment. Considering that dragons were a possible inspiration both for Spiral Order and Valkyries, with both containing norse mythology motifs, - can they be further connected in attempt to relate valkyries to Isorans as potentially the same species?
+  These items possess fiery or ash themes, and as the name itself suggest, are meant to be associated with the Firestorm Citadel, also including [firestorm skill](https://wiki.spiralknights.com/Firestorm) of [drakon](https://wiki.spiralknights.com/Drakon), which is also referencing dragons: `Summon the power of true dragon fire to burn everything in your path`.
 
-Another explanation for those items can be based on the development of Isorans, marking establishment of Spiral Order or its precursor far earlier in their history, with symbol of a spiral already being a staple for its predecessors.
+  Otherwise the shared notion of firestorms between isoran culture and Almire would present a possibility of raiders to be associated with Almire, while Isorans have adapted wthis equipment. While this is a specualtaion, it emphasizes the importance and shared notion of __firestorm motif__, _while acknowledging similarity btetween Almire and Isorans_.
 
-Although it can be fitting, this does seem to align with current themes. Those themes are that of being a greater focus on Cradle and its inhabitants. For example the Equinox, which being on Cradle, but the theme of items relates to Isoran past. At the same time, as Almire will be explored as being a civilization of the same species as Isorans, there's a very high possibility of different Isoran civilization being present near that time, one that invaded Almire and had witnesses Lord Vanaduke's actions first-hand. _If not for fire-themed items, raiders could very much fit to Isora rather than Cradle_, and this very reason seems to us as a relatively strong argument that there were other Isoran civilizations existing with Almire, of different culture and different location.
+There are also elemnts of frost and squall. Weather those elements are related to original three of dragons -- rage and fire, frenzy and frost, storms and shock, -- is unknwon, yet the pattern of naming common elements differently depending on culture is also present here. The frost, while it is charaterized by mixed elemental damage [Winter's Edge](https://wiki.spiralknights.com/Winter%27s_Edge), is associated with shadow damage through rare but [heavy theme of death](https://wiki.spiralknights.com/Shadow_Damage#Shadow_Damage) such as [Winter Grave](https://wiki.spiralknights.com/Winter_Grave): `A tremendously powerful hand cannon whose moniker should come as no surprise to anyone who happens to be viewing it from the wrong end. A charged shot can even plow through multiple enemies`.
 
-Considering that the norse mythology is most prominent here, [Glacial prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box) items must be examined in that relation. The topic of arctic region is highly important to a possible entities behind Undercorp's plot on Cradle, it is explored in the [nefarious imp and arctic plot section](#nefarious-imp-arctic-plot).
+All of these items have spiral imagery, as weapons have spiral carved onto them, and costumes have spiral on their belt and other elements of equipment. Considering that dragons were a possible inspiration both for Spiral Order and Valkyries, with both containing Norse mythology motifs, -- can they be further drawn closer in _attempt to identify Valkyries and Isorans as the same species_?
 
-Both scenarios lead to the same question being posed - __how and when Isorans had to arrive to Cradle or one of its planets in order to have both less developed technology, - as raiders and Almire, - but also preserve Spiral Order symbolism - as strictly raiders?__
+<!--Although it can be fitting, this does seem to align with current themes. Those themes are that of being a greater focus on Cradle and its inhabitants. For example the Equinox, which being on Cradle, but the theme of items relates to Isoran past. As Almire will be explored as being a civilization of the same species as Isorans, there's a very high possibility of different Isoran civilization being present near that time, one that invaded Almire and had witnesses Lord Vanaduke's actions first-hand. _If not for fire-themed items, raiders could very much fit to Isora rather than Cradle_, and this very reason seems to us as a relatively strong argument that there were other Isoran civilizations existing with Almire, of different culture and different location.-->
 
 ##### Spacefarers of Old
 
-The terms `spacefarers of old` ([Celestial Nav Helm](https://wiki.spiralknights.com/Celestial_Nav_Helm)) and `Isoran starfarers of old` ([Celestial Nav Suit](https://wiki.spiralknights.com/Celestial_Nav_Suit)) may be linked to [Aegis](https://wiki.spiralknights.com/Aegis): `Whether its crest is a relic from the Order of old`.
+The terms `spacefarers of old` ([Celestial Nav Helm](https://wiki.spiralknights.com/Celestial_Nav_Helm)) and `Isoran starfarers of old` ([Celestial Nav Suit](https://wiki.spiralknights.com/Celestial_Nav_Suit)) as noted earlier, sets explicit ambiguity within the timeline stemmig from [Aegis](https://wiki.spiralknights.com/Aegis): `Whether its crest is a relic from the Order of old`.
 
-By being referred by the phrase `of old`, and Spiral Order usually being mentioned in gears' description directly, it introduces a level of vagueness to Spiral Order origins.
+While Aegis is specified as belonging to order before Spiral Order, it bears same emblem as Spiral Wardens, and subbsequently, Spiral Order. In that regard, if raiders were to be interpreted as Isorans, contrasting modified appearances of Almirian equipment through addition of wings, then raiders would become one of earlier iteration of Spiral Order through common symbolism of a warden head.
 
-If Aegis is of the order before Spiral Order, it must bear same emblem as Spiral Wardens, as well as presence of spiral patterns. And if raiders are even more ancient Isorans, then Warden had also to exist. Potentially, in a more medieval iteration.
+In teh same manner we can interoduce the possibility of Almire to be identified as Isorans. In such case Raider would be attributed to that period of time as noted earlier in the establishment of firestorm motif. But, apart from this expansion of Almirian identity within the narrative, it would require a causal explanation -- __why would Isorans, as the kingdom of Almire and Raiders, find themselves on a separate planet__?
 
-This is the first explanation. The second explanation, which we have discussed earlier - one relying in the themes of relation to Cradle, of Spiral Order at some point arriving to Cradle in the past and remained there, explaining both raider low-tech gear and similarity of Isorans to citizens of Almire.
+This question tests the timeline for causal explnation, which also is required to be thematically consistent -- offering an explanation for a shift from a generally advanced spacefaring civilization to one of medieval technology.
 
-The other important point, which we believe, affirms the second scenario, is the presence of Isoran-like equipment within the Iron Hulk of a spaceship during the event of [Ghosts in the Machine](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Iron_Hulk), suggesting that either Morai or Isorans had arrived to Cradle a few hundred of years prior to Skylark crash landing there. __If this has happened once, over a span of a hundred years, and given how ancient Isorans are as an interstellar civilization, the possibility of such event being repeated in the past is highly likely due to presence of the concept itself__.
+The thematic transition can be achievedthrough presence of Isoran-like equipment within the Iron Hulk of a spaceship during the event of [Ghosts in the Machine](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Iron_Hulk). The mission's setting suggests that either Morai or Isoran vessel had arrived to Cradle a few hundred of years prior to Skylark crash landing there.
 
-Isorans had technology to allow interstellar travel for eons, it is then might not be a logical leap to conclude that at some point in time Isorans did in fact arrive to Cradle and their descendant became people of Almire and raiders, with the latter suspected to be one of the 2 kingdoms invading Almire. The detail of this state transitioning to the kingdom of Almire and raiders we will suggest in [the end of the analysis of the kingdom of Almire](#war-of-heavenly-kingdom-and-underworld).
+If Isoran or Morai vessel had already crashed twice in the span of a few hundred of years, what is the possibility of the same event to happen far earlier, aligning with the time when celestial gear was used `eons` ago?
+
+Isorans had technology to allow interstellar travel, it is then might not be a logical leap to conclude that at some point in time Isorans did in fact arrive to Cradle and their descendant became people of Almire and the people of other 2 kingdoms, potentially including raiders. The logistics of this transition to the kingdom of Almire will be discussed in [the end of the analysis of the kingdom of Almire](#war-of-heavenly-kingdom-and-underworld).
 
 ##### Skylark
 
-When thought of interstellar travel, it is believed that the time taken by the travel itself is considerably long, but, in case of Skylark and overall technological advancements of Spiral Order, this was solved, as based on the intro cinematic, Skylark has the required technology to travel those long distances.
+When thought of interstellar travel, it is believed that the time taken by the travel itself is considerably long, but, in case of Skylark and overall technological advancements of Spiral Order, this limitation was solved, as based on the intro cinematic Skylark has the required technology to travel those long distances near-instantly.
 
 Based on the earlier mention of eons regarding celestial cosmetics, Spiral Order or Isorans existed for quite a while, and such technology would be then expected or at least improved to the point it is seen currently.
 
-Based on [Feron dialogue](https://wiki.spiralknights.com/Reporting_for_Duty#Dialogue): `After the Skylark crashed, its primary tearium core exploded, destroying a portion of the ship and leaving it without a main power source`, a fuel called tearium is used to power the engine as well as the ship itself ([Reporting for Duty - Feron](https://wiki.spiralknights.com/Reporting_for_Duty#Dialogue)).
+Based on [Feron dialogue](https://wiki.spiralknights.com/Reporting_for_Duty#Dialogue): `After the Skylark crashed, its primary tearium core exploded, destroying a portion of the ship and leaving it without a main power source`, a fuel called tearium is used to power the engine as well as the ship itself ([Reporting for Duty - Feron](https://wiki.spiralknights.com/Reporting_for_Duty#Dialogue)). Skylark has at least two sources of energy, referred as tearium cores. The other is recovered and [placed into Haven Laboratory](https://wiki.spiralknights.com/Lab) to power it: `We managed to pull the secondary generator from the Skylark mostly intact. Unfortunately it's barely powerful enough to keep this lab running, let alone power our ship.  We'll need to find another power source if we ever hope to return home`. It is designed similar to arcade gate pillars with distinct presence of Energy aura patterns.
 
-Skylark has at least 2 types of engines, one powered by tearium and one recovered and placed into the Lab, whose power supply is barely enough to power the complex, and it is designed similar to arcade gate pillars with distinct presence of Energy aura patterns.
+We can identify the potential of tearium through the analysis of the [intro cinematic](https://youtu.be/d5CrSNU-Wyg). Skylark, prior to reaching Cradle's star system was located in a tunnel, over which into cinematic narration is performed. Based on the general understanding of Isoran advancements and Skylark's appearance near Cradle, we propose that it is a tangible, physical tunnel created by the vessel for long-distance travel through tearium technology, rather than being a narrative device. In this proposed context we consider tearium as a fuel derived of "to tear", such as to tear regular space.
 
-We can identify the potential application of tearium through the analysis of the [intro cinematic](https://youtu.be/d5CrSNU-Wyg). Skylark, prior to reaching Cradle's star system was located in a tunnel. Based on the general understanding of Isoran advancements, we propose that it is a tangible, physical tunnel created by the vessel for long-distance travel, rather than a storytelling tool. In this proposed context we consider tearium as a fuel derived of "to tear", such as to tear regular space.
+##### Myth-driven Similarity of Valkyries and Isorans
 
-##### Thematic Connections of Isorans and Cradle
+There are many items pointing to Isorans being _symbolically_ related to Cradle:
 
-There are many items pointing to Isorans being related to Cradle:
-
-- The aforementioned Raiders' [firestorm theme](#spiral-raiders).
-- `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)) - as discussed earlier, the vagueness here seems intentional.
-- `The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret` ([Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm)) - as it was examined in relation to [both Spiral Order and dragons](#spiral-order-and-dragons), in the current context of Isoran origins it remains relevant.
-
-  While dragons are in fact mentioned, the helm itself is of Spiral Order's medieval designs, and the set specifically lacks any relation to elemental or shadow, except for known piercing damage. So, this would mean that either dragons were present to some degree on Isora.
-
-- `As it is often said, a knight need not have courage: just Valiance` ([Valiance](https://wiki.spiralknights.com/Valiance)) - a stretch, but it has similarity to Justice of Almire: `Law and Order have fled Almire. Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke. Justice is swift, unflinching, merciless` ([Legion of Almire/Inner Sanctum - Almirian codex](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum)) in terms of how those concepts are referred.
+- The [firestorm motif](#mythological-framing-of-spiral-raiders) within Raiders' equipment as well as the low-tech and magical theming of the equipment itself.
+- `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)) -- as discussed earlier, the vagueness is intentional, which inttroduces a concept of an Order of old.
+- `The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret` ([Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm)) -- as it was examined in relation to [both Spiral Order and dragons](#spiral-order-and-dragons), in the current context of Isoran origins it remains relevant.
+- `As it is often said, a knight need not have courage: just Valiance` ([Valiance](https://wiki.spiralknights.com/Valiance)) has similar framing of a concept to Justice of Almire: `Law and Order have fled Almire. Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke. Justice is swift, unflinching, merciless` ([Legion of Almire/Inner Sanctum - Almirian codex](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum)).
 - Cradle has much present spiral imagery, mentioned in the [Spiral section](#concept-of-spiral), it could be an appropriate location thematically for Knights to be related.
+- Designs of [4 and 5-star alchemy paths](https://wiki.spiralknights.com/Sacred_Grizzly_Wraith_Helm) of the [Sentinel Helm](https://wiki.spiralknights.com/Sentinel_Helm) imply a different set of themes for Spiral Order prior to Cradle.
 - The [Hazardous Prize Box](https://wiki.spiralknights.com/Hazardous_Prize_Box) contains items relating to Scarlet Scouts:
   - `this helm is in the visage of a demon said to have broken off its own horn to use as a weapon when it faced its end.` [Hazardous Diablo Helm](https://wiki.spiralknights.com/Hazardous_Diablo_Helm#Hazardous_Diablo_Helm) - a cultural presence of demons.
   - `this helm is in the visage of Death itself. Those that wear it have a saying, 'Death is at your heels, so keep facing forward'` ([Hazardous Grim Mask](https://wiki.spiralknights.com/Hazardous_Grim_Mask#Hazardous_Grim_Mask)), - a personification of Death.
-  - `this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Hazardous Oni Helm](https://wiki.spiralknights.com/Hazardous_Oni_Helm#Hazardous_Oni_Helm)) - a cultural reference of Oni inhabiting mountains in Japanese folklore, and associated with thunder, which is present here as Storm-themed gear of the [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box).
+  - `this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Hazardous Oni Helm](https://wiki.spiralknights.com/Hazardous_Oni_Helm#Hazardous_Oni_Helm)) - a cultural reference to Oni inhabiting mountains in Japanese folklore, and associated with thunder, which is present here as Storm-themed gear of the [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box), [Storm Champion Helm](https://wiki.spiralknights.com/Storm_Champion_Helm#Storm_Champion_Helm): `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say the thunderclaps are the eternal echoes of her siege`.
 - Among auras, the [Orbit aura](https://wiki.spiralknights.com/Orbit_Aura#Orbit_Aura) has Cradle's Sun and Moon present, held by clock-like mechanism, in construction similar materials used in the [Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber).
 
-  Yet, it has imagery of Cradle's Sun and Moon, - this is _likely an asset reuse_, but we are not confident of that due to presence of the same imagery on the [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield) - due to how the theme of equinox is related through Strangers to Cradle (`The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` - [Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)), and seemingly to Isoran culture (`To recognize this special event, Spiral HQ has created new costumes and accessories for the Knights of the Spiral Order. ..., and meditate on the workings of the universe. Then, refreshed, delve back into the clockworks with equipment that is out of this world!` - [Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)), despite located far from Isora.
+  Yet, it has imagery of Cradle's Sun and Moon, identical to one of [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield), while the equinox itself is valued both by Strangers and Isorans:
 
-Considering Isorans' advancements of interstellar travel, taken Skylark designs or designs of celestial cosmetics, they must have a homeworld or a place of origin advanced enough to, at least, allow traveling to planet's orbit. Based on descriptions of celestial sets, Isora is implied to be that homeworld, rather than our earlier suggestion of it being related to Cradle's past.
+  - `The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)).
+  - `To recognize this special event, Spiral HQ has created new costumes and accessories for the Knights of the Spiral Order. ..., and meditate on the workings of the universe. Then, refreshed, delve back into the clockworks with equipment that is out of this world!` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)).
+- More so, as much as Almirian Crusader armor is transmuted from Isoarn Azure armor as myth-driven counterpart, so is [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher), `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead`, to [Warden's Leviathan Blade](https://wiki.spiralknights.com/Leviathan_Blade).
 
-##### Similarity to Heavenly Kingdom
+If those items indeed belong to Isorans in the past, they frame Spiral Order in a light similar to one of Valkyries, as emerging from mythology and deific ancestry, similar to th _legend-like framing of the seige of heavenly kingdom_:
 
-Another point of discussion, if the Knights were at some point on Cradle, - is the conditions of their arrival on Cradle or a separate planet which was taken up by the Core. Were Knights present at the time of [the War of Heavenly Kingdom](#war-of-dragons-and-valkyries)?
+- `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say the thunderclaps are the eternal echoes of her siege` ([Storm Champion Helm](https://wiki.spiralknights.com/Storm_Champion_Helm#Storm_Champion_Helm)).
+- `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say that whistling wings are the eternal warcries of her siege` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)).
+
+With this notion we should point out a possibility of _Rider gods to be potentially identified as Isorans_.
+
+Yet, Isorans lack the thematic connection with those gods, as they are _not depicted to possess element of magic_, but rather an explicit _lack of knowledge on it_. There is a window of possibility to connect lightning of frenzy, rage and storm gear to Isorans, but, when compared in exact detail, only Energy attains visible resemblence to the theme of lightning. More so, energy on its own when separated from Isorans carries this theme of power and lightning, such as the storm-like surface of the Core at depth 29 of Clockworks -- _a location, unrelated to Isorans_.
+
+In that regard we could reestablish an idea, that Isorans have adapted Valkyrian gear due to their shared imagery of a spiral, and yet, there are motifs of wings and an identity of Valkyries as guardians:
+
+- **Motif of Wings**: Wings within Isoran culture are present even in their modern depiction, [Plasma Wings](https://wiki.spiralknights.com/Plasma_Wings), in their Solar and Cosmic variants within [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box)
+- **Guardian motif**: Isoran narrative of protection of Cradle in the end of rank missions campaign shapes Spiral Order as the next civilization to protect Cradle. Herein also the deific motif makes itself present through Sleeper as a _deity-like figure within the narrative_ of the campaign.
+- **Themes of Handguns**: Handguns of [Antigua](https://wiki.spiralknights.com/Antigua) [alchemy tree](https://wiki.spiralknights.com/Antigua#Alchemy_Path) explicitly dissolve the boundary between themes of corresponding handguns, including dragons, while introducing weird-west genre through them, identified as _Gunslinger Priests_ faction. Those handguns introduce a deep awareness of Underworld in its many aspects, and yet Spiral Order visibly, _slowly comes to that degree of understanding only throughout the campaign_.
+
+Given those arguments, will adhere to our primary interpretation and a working theory of Isorans remaining similar to Valkyries, but devoid of their explicitly mythological narrative. And then, Isorans -- __Spiral Order shapes itself into the image and position of heavenly guardians__ from the past through the course of the campaign.
+
+We will explore this idea in greater detail from perspective of a narrative, where protection of Cradle becomes the primary point or _a role to uphold -- an imposed duty_ for unrelated civilizations across the timeline.
+
+##### Paradox of Isorans on Cradle
+
+Another point of discussion, if the Knights were at some point on Cradle, -- is the conditions of their arrival on Cradle or a separate planet which was taken up by the Core. Were Knights present at the time of [the Lesser Creation Myth](#lesser-creaton-myth)?
 
 There are some parallels of Spiral Knights gear and warriors of Heavenly Kingdom:
 
