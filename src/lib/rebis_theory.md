@@ -2089,7 +2089,7 @@ Yet, the reasons for Morai war to erupt, remain unknown. In the context of Morai
 
 Depth of [Iron Hulk](https://wiki.spiralknights.com/Iron_Hulk) is located in the [dry docks](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Dry_Dock) of the Clockworks. Dry docks are build in similar manner as Clockwork tunnels and deconstruction zones, both of which are presumably constructed by gremlins and contained within their corresponding individual skydomes.
 
-In that context, paired with the [cargo bay](https://wiki.spiralknights.com/Cargo_Bay) and bridge-like room at the end of iron hulk behind the Big Iron battlepod, __we can identify the entire structure as a_ **spacefaring vessel**.
+In that context, paired with the [cargo bay](https://wiki.spiralknights.com/Cargo_Bay) and bridge-like room at the end of iron hulk behind the Big Iron battlepod, _we can identify the entire structure as a_ **spacefaring vessel**.
 
 Moreover, uniform of pilots on the bridge is extremely similar to Isoran armors, such as [Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit), which may prove that the spacecraft belong to Isoran or, potentially, even Morai.
 
@@ -2755,13 +2755,13 @@ Owlites, Valkyries, and Kingdom of Almire are all far more aware of elemental an
 
 Due to this vague timeline positioning, where in the Core became a tangible gremlin-aligned force, the knowledge of those elements could not be attained by a status quo of souls returning. Unless this state is what allowed for greater manipulation of magic, compared to [Arcana](https://wiki.spiralknights.com/Arcana): `An exceptional handgun that fires powerful, elemental shots that many Spiral Knights refer to as 'magic missiles'`.
 
-The events of all of the kingdoms above, even without their details are framed in a themes of phantasy, be it a lost kingdom, mythology-inspired heavenly valkyries and earthly titans, interventions of Underworld, or dark halls of a magic academy.
+The events of all of the kingdoms above, even without their details are framed in a genre of fantasy, be it a lost kingdom, mythology-inspired heavenly valkyries and earthly titans, interventions of Underworld, or dark halls of a fallen magic academy.
 
 On the other hand there is the Core and its internal structure as completely alien to everything above, abstract.
 
 If we consider a possibility of the Whitespace, or what it was prior to the Core, being the reason for greater magical capabilities, and if all of civilizations above do belong to this single planet, - then the property of spirits returning to material realm would be connected to all of those magical phenomena, while justifying them.
 
-If the effects of the Core observed, as of spirits returning to material realm, exist on their own, only being manifested in cases such of the [Ghost in The Machine](#ghosts-in-the-machine), then magic does exist separately from this metaphysical condition, allowing for all of the fantasy events to happen without being tied to the Core's internal logic. This seems as moe plausible solution so far.
+If the effects of the Core observed, as of spirits returning to material realm, exist on their own, only being manifested in cases such of the [Ghost in The Machine](#ghosts-in-the-machine), then magic does exist separately from this metaphysical condition, allowing for all of the fantasy events to happen without being tied to the Core's internal logic. This seems as moe plausible solution so far, as Spiral Order was partially aware of elemental damage.
 
 But, what are laws for undeath to exist? Is undeath a prime evidence of spirits returning to material realm or is it a phenomenon characteristic of magic in general? How is - `spirits return to the material realm` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)), - manifests itself on Cradle?
 
@@ -2779,12 +2779,20 @@ With this gathered information, we propose so far, that the __nature of Cradle's
 - Past Kat Tribe [Spookats](https://wiki.spiralknights.com/Kat) was erased by Kataclysm and then brought back in their undeath.
 
     The distinction between Spookats and Black Kats will be covered in their own chapter, as their are only sealed, and are brought back through summoning, reminiscent of Legion of Ur.
+
 - Subclasses of [Zombies](https://wiki.spiralknights.com/Zombie) being within our theory [fallen people of Almire](#king-in-the-mountain) and other kingdoms, are suggested by influence of [Lord Vanaduke's fires](#nature-of-darkfire), as Legions of Almire. To them we attribute [Almirian Crusaders](https://wiki.spiralknights.com/Almirian_Crusader) and [Dreadnoughts](https://wiki.spiralknights.com/Deadnaught) as of similar [skeletal design](#undead-dreadnoughts).
+
+    We also accent here reanimation of Citadel's curse past Lord Vanaduke's death through Herex's activation of msysterious console by charged Artifact.
+
 - Lastly, [Scarabs](https://wiki.spiralknights.com/Scarab) have a link to death, most evident by their name and ribcage shell. This motif of death and insect-like design reminds us of [inhabitants of Apocrean Realm](#analysis-of-apocrean-realm).
 
-But here, undeath presents itself from every case of death in proximity to Cradle, _without a need for an explicit action of curse or induced by it transformation_. Prime example of it being, if we commit to the idea of Spiral Order being unaware of souls, by the result of [ghost in the machine danger mission](#ghosts-in-the-machine).
+But here, undeath presents itself from every case of death in proximity to Cradle, _without a need for an explicit action of curse or induced by it transformation_. Prime example of it being, if we commit to the idea of Spiral Order being unaware of souls, by the result of [ghost in the machine danger mission](#ghosts-in-the-machine), as their animation as undead would be explained by their death in proximity yo already mechanized Cradle with an active Core powering the  Clockworks.
 
-Lastly, the we are yet to identify the time period of both [western-themed handguns](https://wiki.spiralknights.com/Antigua) and [corresponding armor sets](https://wiki.spiralknights.com/Gunslinger_Sash) to be identified, as well as of the [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher), as they may stir in the correct direction the initial proposal described above.
+And, as Devilites were able to transport Everfrost Pillar to Amu-Sol, so souls would be brough to reality through near-permanent access to Underworld without explicit actions on devilite part, perpetuated by equally excited presence of energy emitted by the Core, albeit in less focalized manner as seen in case of Shadowplay, reanimation of curse through energy.
+
+In other words, **excess presence of primordial energy of the Core accelerates natural metaphysical processes to a detriment of causing their bidirectional flow**, **as it is force of entropy at reality's foundation**, with no medium to be carried, compared to minerals, but itself, mist energy.
+
+<!--Lastly, the we are yet to identify the time period of both [western-themed handguns](https://wiki.spiralknights.com/Antigua) and [corresponding armor sets](https://wiki.spiralknights.com/Gunslinger_Sash) to be identified, as well as of the [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher), as they may stir in the correct direction the initial proposal described above.-->
 
 ##### Consoles: Part 1 - Gremlin Containments and Consoles
 
