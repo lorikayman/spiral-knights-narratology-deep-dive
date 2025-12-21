@@ -2206,7 +2206,7 @@ We will start from a _white ritual circle around inactive tortodrone_ near the e
 
 This circle has same _fiendish sigils_, used across Clockworks in locations _containing mineral pillars_ -- this configuration introduces a pattern of ritual circles being composed of minerals, _other than dark mater_.
 
-Circle of the same color, -- pale white, -- but significantly smaller and lacking fiendish sigils can be found before the Call of The Colossi arena _surrounding an inactive tortodrone part_.
+Circle of the same color, -- pale white, -- but significantly smaller and lacking fiendish sigils could be found before the Call of The Colossi arena _surrounding an inactive tortodrone part_.
 
 Based on the notion of fiends having in possession working, but modified tortodrones, earlier referred as corrupted, we can suggest, that those circles of different color, -- currently unknown mineral, -- through encircling of non-corrupt tortodrone parts allow us for vague identification of their functional purpose.
 
@@ -2247,9 +2247,9 @@ Currently we won't consider different physics of the ritual circles depending on
 
 And most importantly, if those circles operate under the same metaphysical laws, this would unite all currently established minerals, potentially with expception of Whitespace Gold Keys, under a single system.
 
-##### Devilite Sigils
+##### Solomon Seals and Pentacles
 
-The sigils themselves, including ritual circles, seem to be inspired in their  composition or a layout by the **Solomon seals, the pentacles** of `The Key of Solomon the King`, and, could be pinpointed to a few distinct pentacles, as suggested by [Kentngo on Spiral Knights forums](https://forums.spiralknights.com/en/node/7857#comment-40758): `The Fifth Pentacle of Saturn combined with the meaning of the Seventh Pentacle of the Sun. Two circles, denoting the angels names between the two. The center shows a resemblance to the Third Pentacle of Mercury. Although the angelic names are gibberish in this case`.
+The ritual circles themselves, including ritual circles, seem to be inspired in their  composition or a layout by the **Solomon seals or the pentacles** of `The Key of Solomon the King`, and, could be pinpointed to a few distinct pentacles, as suggested by [Kentngo on Spiral Knights forums](https://forums.spiralknights.com/en/node/7857#comment-40758): `The Fifth Pentacle of Saturn combined with the meaning of the Seventh Pentacle of the Sun. Two circles, denoting the angels names between the two. The center shows a resemblance to the Third Pentacle of Mercury. Although the angelic names are gibberish in this case`.
 
 <BookCitation source="The Key of Solomon the King">
 
@@ -2265,13 +2265,25 @@ The sigils themselves, including ritual circles, seem to be inspired in their  c
 
 </BookCitation>
 
-The idea of protection for dark matter circles is a novel one, but it follows along the previous concept of pale white circles as warding ones. The protected target is the one encircled - in case of devilites, or, likely gremlins, those are mineral pillars.
+The Pentacles of `The Key of Solomon the King`'s reality become tools, through which operation or interfacing with specific entities or forces, tied to _planets as symbols for concepts_, may be performed by an operator.
 
-Then, through this logic, the pale circles indeed belong to a different party, as they had used a different mineral for those circles.
+And, in case of develiutes' application of those symbols through out-of-universe inspiration, we may further affirm the significance of warding quality of those pentacles.
 
-We suggest, that while the protection aspect persists, the later instances of ritual circles, ones relating to everfrost, and others to inner establishment of the Moorcroft Manor, demonstrate other abilities of the circles, namely capacity to summon - we will cover this in detail. So far, we are noting here, that __those circles are not drawn by fiends, but the consistent practice itself has to emerge from some culture, which we consider so far being from the Underworld__.
+The idea of protection for dark matter circles, if it functionally identical to other instances of ritual circles, follows along the previous concept of pale white circles as warding ones. The protected target is the one encircled:
 
-Previously mentioned idea of white circles serving as a ward, seems more plausible under those interpretations of protection. Moreover, the concept of the circle itself is introduced in "The Key of Solomon the King" and is called the _Circle of Art_:
+- In case of devilites or gremlins those are mineral pillars
+- For tortomega narrative, tortodrones themselves
+
+Then, through this logic, the pale circles become affiliated with a different party, as they had used a different mineral for those circles.
+
+We suggest, that while the protection aspect persists, the other, including non-dark matter instances of ritual circles, demonstrate other abilities of the circles, namely, a __capacity to summon__. We will cover this property in detail. Yet, we have to consider a following narrative:
+
+- As those circles may possess a universal warding quality, they emerge across different time periods or eras, even, -- such as Owlites, Almire, or modern-day devilites, and even areas, affiliated with Apocrean Realm, -- does this mean that _those circles are not drawn by fiends, but civilizations which had drawn them_ __possess a shared knowledge__?
+- And, if devilites are most consistent faction, which uses powers of those pentacles, making the pentacles to be associated with deveilites, does this mean that a __practice itself had to emerge from Underworld culture__?
+
+##### Circle Of Art
+
+While the pantacles exist as the concept and a distinct tool, a colloqual ritual circle itself with its _warding or protecting function_ among other functions is introduced in `The Key of Solomon the King` as the `Circle of Art`:
 
 <BookCitation source="The Key of King Solomon the King">
 
@@ -2291,15 +2303,29 @@ Previously mentioned idea of white circles serving as a ward, seems more plausib
 
 </BookCitation>
 
-It is due to those similarities and general themes found in the Key, we propose, that fiendish symbols in the ritual circles are derived from the shapes of symbols of Hebrew alphabet in "The Key of Solomon the King".
+Through this ditinction, the __pentacle-like appearance and role of devilite ritual circles attains scale of the circles of art__, _merging the two distinct concepts into one_, -- a notion we might think of as a generally applicable in fantasy genre of fiction as a whole.
 
-Lastly, fiends had carved one nowhere else seen sigil on corrupted tortodrones' back of the shell along with other commonly seen sigils, depicted as a __circled cross__. This description is closely similar to _pictograph of letter Teth "𐤈" of Phoenician alphabet_, and _Middle Semitic script_, and eventually evolving into the _letter Teth "ט" of early and modern Hebrew alphabet_, used in "The Key of Solomon the King". In the Key, Early Hebrew alphabet was at the foundation of the _Alphabet of Magic, used by the Key_, with an addition of several other systems, notably, Malachim alphabet. Then, from Hebrew alphabet, letter teth became __Theta "Θ" of Greek alphabet__. Malachim alphabet will be relevant in the context of the Underworld designs, discussed in regards to the [Nefarious Imp](#nefarious-imp-arctic-plot).
+##### Sigil Of a Cross
 
-Letter theta, on par with our [suggestion](#technology-alchemy-and-Isoran-redesigns) of symbol of Salt - "🜔", - we can suggest, could be a prototype for the symbol of energy. If we are to integrate this idea, theta would serve as a symbol, but the meaning referring to alchemical salt. The symbolic meaning of pictograph of letter teth across Semitic script and Old Hebrew alphabet is connected to a depiction of a pot of a wheel, and of a connection to earth and nature.
+In that context of merging meanings, we propose, due to those similarities and general themes found in the Key, fiendish symbols in the ritual circles are derived from _Hebrew alphabet_, possessing significance in `The Key of Solomon the King`.
 
-The reminiscence of letter theta of the symbol of energy might mean an existence of several inspirations, as it was seen in prior chapters. So, for energy to possess same motif of using multiple sources is not out of the established pattern so far.
+Fiends had carved one nowhere else seen sigil on corrupted tortodrones' back of the shell along with other commonly seen sigils, depicted as a __circled cross__.
 
-Considering presented Underworld cultural and linguistic motifs, could this cultural and linguistic relation to potentially alchemical or greek inspirations be extrapolated onto the relation between Underworld and civilizations of material realm which possess symbol of energy, weather it was heavenly kingdom or Isorans, albeit without involvement of titans?
+With the context of devilite sigils being reminiscent of Hebrew alphabet, we can attempt to categorize this sigil. This description is closely similar to _pictograph of letter Teth "𐤈" of Phoenician alphabet_ or of _Middle Semitic script_, and eventually evolving into the _letter Teth "ט" of early and modern Hebrew alphabet_, used in `The Key of Solomon the King`. In the Key, Early Hebrew alphabet was at the foundation of the _Alphabet of Magic, used by the Key_, with an addition of several other systems, notably, _Malachim alphabet_.
+
+Then, from Hebrew alphabet, letter "teth" became letter _Theta "Θ"_ of _Greek alphabet_. Malachim alphabet will be relevant in the context of the Underworld designs, discussed in regards to the [Nefarious Imp](#nefarious-imp-arctic-plot).
+
+Letter theta in particular has resemblence of the symbol of energy, which we [linked](#technology-alchemy-and-Isoran-redesigns) with the _alchemical symbol of Salt -- "🜔"_. We can suggest, that the greek alphabet may be significant to the symbolism of energy, and yet, the connection to concepts attributed to the inverted symbol of energy might coincidentally iffirm the alchimical interpretation, rather than Greek mythology.
+
+The reminiscence of letter theta of the symbol of energy might sign existence of several inspirations, not directly being true but coincidental as much as the above logic of the symbol's origin through language was built.
+
+Yet, considering presented by Underworld cultural and occult motifs in the context of other sigilas and ritual circles, could this cultural or alchemical relation and invocation of older texts be extrapolated onto the relation between Underworld and civilizations of material realm, which possess symbol of energy and _knowledge of ritual circles, derived from a single "ancient" or occult civilization of devilites_?
+
+Those notions does not explain the existence of the circular symbol on tortodrones' back, which makes us think of more direct interpretation of the symbolic meaning of the unique sigil representing theme of tortodrones and their creators, as affiliated with forest and nature.
+
+At that, if we were to selectively find the exact meaning of the symbol in an abstract context, we would find one interpretation, which states that the symbolic meaning of pictograph of letter teth across Semitic script and Old Hebrew alphabet is connected to a depiction of a _pot or a wheel, and of a connection to earth and nature_.
+
+Despite a semi-fitting meaning, it does not reveal more information on tortodrones nor their relation to devilites, but the nature of that information -- as derived of a niche subject of differences and evolution between scripts, -- had to be seen here as coincidental most likely.
 
 ##### Summoning from Underworld
 
