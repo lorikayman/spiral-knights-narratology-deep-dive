@@ -2327,35 +2327,56 @@ At that, if we were to selectively find the exact meaning of the symbol in an ab
 
 Despite a semi-fitting meaning, it does not reveal more information on tortodrones nor their relation to devilites, but the nature of that information -- as derived of a niche subject of differences and evolution between scripts, -- had to be seen here as coincidental most likely.
 
-##### Summoning from Underworld
+#### Summoning from Underworld
 
-Apart from those implied properties, which might help in establishing overall theme, there is one important element to ritual circles. Ritual circles can summon entities from locations beyond material realm.
+Earlier in the analysis of the design and implied nature of devilite ritual circles we have noted on the capacity of ritual circes to summonning.
 
-There are 2 instances of such application of ritual circles is seen across Clockworks.
+Apart from warding, protective and potentially controlling properties, which help in establishing general themes of devilites and underworld, ritual circles can summon entities from locations beyond material realm.
 
-During the events of [return of the Legion of Ur](https://wiki.spiralknights.com/The_Return_of_Ur), devilites utilized ritual circles to summon banished to the Underworld trojans: `devilites are attempting to summon a legion of powerful trojan warriors. Based on intel from a devilite internal memo, the trojans are known as the 'Legion or Ur' ... the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
+There are 2 instances of such application of ritual circles is seen across Clockworks:
 
-Here the alternative approach devilites had spoken of, is implied to be used during mission's events, that of ritual circles. Then this must mean, that an original approach should exist. Notably, from the same memo it is likely that whatever original approach was, it does not work for sealed in Underworld entities.
+- Summoning of Margrel at Moorcroft Manor
+- Summoning of the Legion of Ur
 
-We believe that the original approach implied to exist, is the technology of grim gates. Considering that devilites use the ritual circle method on Cradle, and are considered stranded (`data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)), then there should be a reason why they did not use the gates, as it is the only other technology directly related to devilites.
+##### Summoning of Trojans
 
-The underlying grim gates technology, paired with relation to tortodrones is one of, if not the first, instances of Underworld presenting itself to known material realm.
+The latter is our primary point of analysis for now, as devilites are most evidently involved into the process, while Margrel and Black Kats exist relatively separate from rank missions.
 
-For trojans, the solution was to utilize known sigils and draw ritual circles, pulling trojans from Underworld, as implied by depths' names and internal design:
+During the events of [return of the Legion of Ur](https://wiki.spiralknights.com/The_Return_of_Ur), devilites have utilized ritual circles to summon banished to the Underworld trojans: `devilites are attempting to summon a legion of powerful trojan warriors. Based on intel from a devilite internal memo, the trojans are known as the 'Legion or Ur' ... the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
+
+Here the alternative approach -- `the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back`, -- devilites had spoken of, is _implied to be used during mission's events_, that of ritual circles.
+
+Then this must mean, that an "original" approach should also exist. Notably, from the same memo it is likely that whatever original approach was, _it does not apply for sealed in Underworld entities_.
+
+We propose, that the __original approach exists and can be identified -- the technology of grim gates__ found in Ancient Grove and below.
+
+Considering that devilites use the ritual circle method on Cradle, and are considered stranded (`data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)), then there should be a reason why they did not use the gates, as it is the only other technology directly related to devilites.
+
+The underlying grim gates technology, paired with relation to tortodrones is one of, if not the first, instances of Underworld, and more specifically, _Undercorp_ presenting itself to material realm in _magnitudes more organized scale_, compared to the event of [Heart of Ice](https://wiki.spiralknights.com/Heart_of_ice) or [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur).
+
+For trojans, the solution was to utilize known sigils and draw ritual circles, pulling trojans from Underworld.
+
+The act of summoning is not observed in-game, compared to summoning of Margrel, but, this act is most likely as implied by _depths' names and internal design_:
 
 - Depth of [Plazamonium](https://wiki.spiralknights.com/Dark_City/Plazamonium) is referred in the [mission](https://wiki.spiralknights.com/The_Return_of_Ur) as the `Summoning Circle` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
-- In that context `Dimensional Shift` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)) may be identified as an area of dark cities surrounding the ritual site, and it is affected by something.
-- A specific [scenario room](https://wiki.spiralknights.com/File:Scenario_Room-DevilishDrudgery_1.png) has a particularly large ritual site composed of 6 smaller ritual circles.
+- In that context `Dimensional Shift` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)) may be identified as an area of dark cities surrounding the ritual site, and it is affected by a shift of dimensions, most likely Underworld and Material Relam in the similar manner as Graveyard-like locations exist between those realms.
+- A specific [scenario room](https://wiki.spiralknights.com/File:Scenario_Room-DevilishDrudgery_1.png) has a particularly large ritual site composed of 6 smaller ritual circles, creating and vague outline of a pentacle.
 
-  The information module near the site states: `5 Ways to Appease your Pit Boss` ([Scenario Room](https://wiki.spiralknights.com/Scenario_room)), this might reveal more about internal corporate structure of Undercorp - that of unfamiliar utilized as mundane, - the _urban, corporate setting of devilites' dark cities is combined with the theme of mundane occult_.
+  The information module near the site states: `5 Ways to Appease your Pit Boss` ([Scenario Room](https://wiki.spiralknights.com/Scenario_room)), this might reveal more about internal corporate structure of Undercorp -- that of __unfamiliar utilized as mundane__, -- the _urban, corporate setting of devilites' dark cities is combined with the theme of mundane occult_.
 
-To affirm potential role as a summoning mechanism, connecting Underworld and material realm, there is one single direct evidence of those rituals circles seen as capable of bringing entities to material realm. Although there is a notion of ritual circles utilizing different minerals, we won't currently consider it in order to emphasize the patterns themselves, connected to devilites, yet minerals may play a role in the exact laws of rituals.
+##### Summoning of Margrel at Moorcroft Manor
 
 In the Moorcroft Manor, black kat Margrel of the Kat Tribe is summoned through the process of applying incantation from the [Book of Dark Rituals](https://wiki.spiralknights.com/Book_of_Dark_Rituals) to the [ritual circle](https://wiki.spiralknights.com/File:Konjuring_Kat-Overworld.png).
 
-Margrel summoning is characterized by a formation of a dark-pink maelstrom enveloping the space below the manor. The maelstrom itself is extremely similar to one later observed across the grim gates, once [their open portal is destroyed at the end of devilite onslaught, with a blue-purple core](#grim-gtes-portal-collapse). We will look into the grim gates, as technology, soon enough. But, as of currently, it seems likely that in general, by the pattern of the ritual circle itself, entities can be brought in, and combined with the analysis of grim gates, the location in question is the Underworld.
+Margrel summoning is characterized by a formation of a dark-pink maelstrom enveloping the space below the manor. The maelstrom itself is extremely similar to one later observed across the grim gates, once [their open portal is destroyed at the end of devilite onslaught, with a blue-purple core](#grim-gtes-portal-collapse).
 
-A particularly large logical leap we had to take here, but one proposing a solution of how devilites entered material realm, is that tortomega being the ones who summoned devilites originally to a planet preceding Cradle though application of similar magic to one used with fiendish ritual circles, or by actions of Undercorp itself. In this proposal we consider white circles being devised after devilites' arrival, as the sigils do seem to belong to fiends.
+##### Summoing of Devilites
+
+We will look into the grim gates, as technology, soon enough. But, as of currently, it seems likely that in general, by the pattern of the ritual circle itself, entities can be brought in, and combined with the analysis of grim gates, the location in question may be the Underworld, while _grim gates are capable of linkin not only material realm and Underworld_, but __different points of material realm__ -- as seen in the transition between grim gates of Ancient Grove and Call of The Colossi.
+
+A particularly large logical leap we had to take here, but one proposing a solution of how devilites entered material realm, is that tortomega being the ones who summoned devilites originally to a planet preceding Cradle though application of similar magic to one used with fiendish ritual circles, or by actions of Undercorp itself -- using tortomega civilization in means of breaching maerial realm.
+
+In both cases we consider white circles being devised after devilites' arrival, as well as the eye-themed design of tortomega shells, as the sigils do seem to belong to fiends -- a result of Underworld's culture being introduced to tortomega, as they _would not have other methods of attaining the recognizable symbol of an eye or sigils by other means, other than contact with the Underworld_.
 
 The reasoning behind those 2 ideas of devilites arriving in proximity of the titans will be covered throughout the proposal itself, as we delve into specifics, but the gist of it is based around 2 major elements: [tortodrones' design containing "the eyes](#construction-of-tortodrones) and [existence of Snarbolax](#snarbolax), with an addition of Shadow Gloaming Wildwoods' [miasma](#miasma). The miasma exists largely on its own, and will be covered in the [analysis of Shadow Lairs](#analysis-of-shadow-lairs).
 
