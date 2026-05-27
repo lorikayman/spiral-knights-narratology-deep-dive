@@ -1,0 +1,255 @@
+@page {
+  size: A4;
+  margin: 2.5cm 2.8cm 2.5cm 2.8cm;
+
+  @bottom-center {
+    content: counter(page);
+
+    padding-bottom: 2.5rem;
+    vertical-align: bottom;
+    text-align: left;
+
+    font-family: heading;
+
+    line-height: 1.4rem;
+    font-size: 1rem;
+
+    color: var(--color-void);
+  }
+
+  /* The conlang-page-numbers counter style is
+   * generated into ./conlang_pagenums.css by scripts/gen_conlang_pagenums.js
+   */
+  @bottom-right-corner {
+    content: counter(page, conlang-page-numbers);
+
+    padding-right: 2.5rem;
+    padding-bottom: 2.5rem;
+    vertical-align: bottom;
+    text-align: right;
+
+    font-family: heading;
+    text-transform: none;
+
+    line-height: 1rem;
+    font-size: 0.5rem;
+    letter-spacing: 2.5px;
+
+    color: var(--color-conlang-subheading);
+  }
+}
+
+@page type-start {
+  size: A4;
+  margin: 0;
+
+  /* suppress the footer
+    weasyprint still renders margin boxes at the page edge even with margin: 0
+  */
+  @bottom-center {
+    content: none;
+  }
+  @bottom-right-corner {
+    content: none;
+  }
+}
+
+@page type-chapter {
+  /*size: A4 landscape;*/
+  /*size: 357mm 210mm;*/
+  size: 330mm 210mm;
+  margin: 0;
+
+  @bottom-center {
+    content: string(chapter-conlang);
+
+    text-align: center;
+
+    font-family: heading;
+    text-transform: none;
+
+    /* paddings dont work
+      fixing this with excess line height */
+    line-height: 4rem;
+
+    font-size: 0.75rem;
+    letter-spacing: 2.5px;
+
+    color: var(--color-white);
+  }
+  @bottom-right-corner {
+    content: none;
+  }
+}
+
+h3[id^="chapter-"],
+h3[id^="final-chapter-"] {
+  page: type-chapter;
+  break-before: page;
+  break-after: page;
+
+  box-sizing: border-box;
+
+  /*width: 297mm;
+  height: 210mm;*/
+
+  /*width: 357mm;*/
+  width: 330mm;
+  height: 210mm;
+
+  margin: 0;
+  padding: 2.5cm 2.8cm;
+
+  background-color: var(--color-void);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  color: var(--color-white);
+  font-size: 5rem;
+}
+
+/**
+ * we use h3-derived selector instead
+ * of nth-type-of since not all h3s
+ * are nested or positioned on the same inline depth
+ *
+ * The :is logic supports special character parsing
+ * of webkit (1) and of firefox / chrome (2)
+ */
+h3:is([id="chapter-ix-s-swarm"]) {
+  color: var(--color-unknown);
+
+  & code {
+    background-color: #000;
+    color: inherit;
+  }
+}
+
+h3[id^="chapter-"] > .cover-content,
+h3[id^="final-chapter-"] > .cover-content {
+  text-align: left;
+}
+
+h1 {
+  page: type-start;
+
+  box-sizing: border-box;
+  width: 210mm;
+  height: 297mm;
+
+  margin: 0;
+  padding: 2.5cm 2.8cm;
+
+  background-image: url("./../../../../static/img/chapters/0_burning_stars.png");
+  /*background-image:
+    url("./../../../../static/img/chapters/0_burning_stars.png"),
+    linear-gradient(to top, #a6d9fd, #66ffff, #4aa7ff, #3d51ff);*/
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  align-items: flex-start;
+  padding-top: 12rem;
+
+  display: flex;
+  justify-content: center;
+
+  color: var(--color-void);
+}
+h3#chapter-i-cosmology {
+  background-image: url("./../../../../static/img/chapters/1_cosmology.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄▀▌▚▌▞▌▀▌▚▌▗▌▚█▖▚";
+}
+h3#chapter-ii-underworld {
+  background-image: url("./../../../../static/img/chapters/2_underworld.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄▖▘▌▜▜▚▌▙▖▀▌▚▌▙▌▗▜";
+}
+h3#chapter-iii-tortomega {
+  background-image: url("./../../../../static/img/chapters/3_tortomega.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄▌▟▌▚▌▙▌▟▌▚▌▀▚█▘";
+}
+h3#chapter-iv-heavenly-kingdom {
+  background-image: url("./../../../../static/img/chapters/4_heavenly_kingdom.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄▙▚▘▖▗▚▌▜▌▗▖▚ ▄▌▘▞▌▜█▜▌▚▌▀";
+}
+h3#chapter-v-spiral-order {
+  background-image: url("./../../../../static/img/chapters/5_spiral_order.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄▌▞▌▛▞▌▙▘▌▗ ▄▌▚▌▙▜▚▌▙";
+}
+h3#chapter-vi-undercorp {
+  background-image: url("./../../../../static/img/chapters/6_undercorp.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄▖▘▌▜▜▚▌▙▀▌▚▌▙▌▛";
+}
+h3#chapter-vii-kingdom-of-almire {
+  background-image: url("./../../../../static/img/chapters/7_kingdom_of_almire.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄▌▘▞▌▜█▜▌▚▌▀ ▌▚▛ ▄▘▌▗▌▀▞▌▙▚";
+}
+h3#chapter-vii-s-gunslinger-priests {
+  background-image: url("./../../../../static/img/chapters/7-5_gunslinger_priests.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄█▖▘▌▜▌▞▌▗▞▌▜█▚▌▙ ▄▌▛▌▙▞▚▌▞▌▟▌▞";
+}
+h3#chapter-viii-kat-tribe {
+  background-image: url("./../../../../static/img/chapters/8_kat_tribe_v3.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄▌▘▘▌▟ ▄▌▟▌▙▞▗▚";
+}
+h3#chapter-viii-s-metaphysics-of-curse {
+  background-image: url("./../../../../static/img/chapters/8_5_metaphysics_of_curse_v2.png");
+  /*background-color: var(--color-unknown);
+  color: var(--color-void);*/
+  background-size: cover;
+  string-set: chapter-conlang "▄▌▀▚▌▟▘▌▛▙▖▚▌▞▞▀▌▞ ▄▌▚▛ ▄▀▖▘▌▙▌▞▚";
+}
+h3#chapter-ix-gremlin-empire {
+  background-image: url("./../../../../static/img/chapters/9_gremlin_empire_v4_1.png");
+  background-size: cover;
+  string-set: chapter-conlang "▄█▌▙▚▌▀▌▗▞▌▜ ▄▚▌▀▌▛▞▌▙▚";
+}
+h3#chapter-ix-s-swarm {
+  background-image: url("./../../../../static/img/chapters/9-5_swarm.png");
+  background-size: cover;
+  string-set: chapter-conlang "";
+}
+h3#chapter-x-spiral-knights {
+  background-image: url("./../../../../static/img/chapters/10_spiral_knights.png");
+  align-items: flex-start;
+  padding-top: 21.1rem;
+  string-set: chapter-conlang "";
+  font-size: 3.3rem;
+}
+
+h3#final-chapter-spiral-of-burning-stars {
+  background-image: url("./../../../../static/img/chapters/11_spiral_of_burning_stars.png");
+  align-items: flex-start;
+  padding-top: 2.3rem;
+  font-size: 6.1rem;
+  string-set: chapter-conlang "";
+}
+
+/*center headings for ch10 and ch11*/
+h3#chapter-x-spiral-knights > .cover-content > em:first-of-type,
+h3#final-chapter-spiral-of-burning-stars > .cover-content > em:first-of-type {
+  display: block;
+  text-align: center;
+}
+h3#final-chapter-spiral-of-burning-stars > .cover-content {
+  text-align: center;
+}
+h3#chapter-x-spiral-knights > .cover-content > br,
+h3#final-chapter-spiral-of-burning-stars > .cover-content > br {
+  display: none;
+}

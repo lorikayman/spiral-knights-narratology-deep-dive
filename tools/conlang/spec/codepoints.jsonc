@@ -1,0 +1,18 @@
+[
+  { "char": " ", "codepoint": "U+0020", "delta": "0x20" },
+  { "char": "▀", "codepoint": "U+2580", "delta": "0x2560" },
+  { "char": "▄", "codepoint": "U+2584", "delta": "0x4" },
+  { "char": "█", "codepoint": "U+2588", "delta": "0x4" },
+  { "char": "▌", "codepoint": "U+258C", "delta": "0x4" },
+  { "char": "▐", "codepoint": "U+2590", "delta": "0x4" },
+  { "char": "▖", "codepoint": "U+2596", "delta": "0x6" },
+  { "char": "▗", "codepoint": "U+2597", "delta": "0x1" },
+  { "char": "▘", "codepoint": "U+2598", "delta": "0x1" },
+  { "char": "▙", "codepoint": "U+2599", "delta": "0x1" },
+  { "char": "▚", "codepoint": "U+259A", "delta": "0x1" },
+  { "char": "▛", "codepoint": "U+259B", "delta": "0x1" },
+  { "char": "▜", "codepoint": "U+259C", "delta": "0x1" },
+  { "char": "▝", "codepoint": "U+259D", "delta": "0x1" },
+  { "char": "▞", "codepoint": "U+259E", "delta": "0x1" },
+  { "char": "▟", "codepoint": "U+259F", "delta": "0x1" },
+]

@@ -1,0 +1,200 @@
+# https://taskfile.dev
+
+version: "3"
+
+includes:
+  conlang:
+    taskfile: ./tools/conlang/taskfile.yml
+    dir: ./tools/conlang
+    flatten: false
+    internal: false
+
+vars:
+  # path to .md
+  INPUT_MARKDOWN:
+    sh: |
+      fp="${INPUT_MARKDOWN:-./src/lib/burning_stars.md}"
+      printf "$fp"
+  # output filename stem (IR[native,html]..pdf)
+  OUTPUT_STEM:
+    sh: |
+      fp="${OUTPUT_STEM:-burning_stars}"
+      printf "$fp"
+  # upper bound of pages to pre-encode conlang glyphs for (over-provisioned;
+  # unused entries are harmless, pages beyond it fall back to plain digits)
+  PAGE_NUM_MAX:
+    sh: |
+      n="${PAGE_NUM_MAX:-1500}"
+      printf "$n"
+
+tasks:
+  default:
+    cmds:
+      - task --list
+  install:
+    aliases: [i]
+    cmds:
+      - bun install
+      - uv tool install weasyprint
+      - task: pdf:engine:check
+  clear:
+    cmds:
+      - clear
+  pdf:engine:check:
+    cmds:
+      - uv tool run weasyprint --info
+  pdf:native:
+    desc: Generate pandoc native AST (debug intermediate)
+    deps:
+      - clear
+    aliases:
+      - pn
+    cmds:
+      - |
+        pandoc \
+          {{.INPUT_MARKDOWN}} \
+          \
+          --from markdown+yaml_metadata_block \
+          --to native \
+          \
+          --lua-filter \
+            src/lib/pandoc/filters/link.lua \
+          --lua-filter \
+            src/lib/pandoc/filters/citation_code.lua \
+          --lua-filter \
+            src/lib/pandoc/filters/book_citation.lua \
+          --lua-filter \
+            src/lib/pandoc/filters/chapter_cover.lua \
+          --lua-filter \
+            src/lib/pandoc/filters/conlang_heading.lua \
+          \
+          --standalone \
+          --output ./dist/{{ .OUTPUT_STEM }}.native
+  pdf:html:
+    desc: Generate HTML5 via Pandoc (lua filters + stylesheets)
+    deps:
+      - clear
+    aliases:
+      - ph
+    # add to pipleine if need moving from `code` to `span.citation` in paragraphs:
+    #           --lua-filter src/lib/pandoc/filters/citation_code.lua \
+    cmds:
+      - |
+        pandoc \
+          {{.INPUT_MARKDOWN}} \
+          \
+          --from markdown \
+          --to html5 \
+          \
+          --lua-filter src/lib/pandoc/filters/link.lua \
+          --lua-filter src/lib/pandoc/filters/book_citation.lua \
+          --lua-filter src/lib/pandoc/filters/chapter_cover.lua \
+          --lua-filter src/lib/pandoc/filters/conlang_heading.lua \
+          \
+          --template src/lib/pandoc/template.html \
+          --css ../src/lib/pandoc/css/fonts.css \
+          --css ../src/lib/pandoc/css/page.css \
+          --css ../src/lib/pandoc/css/layout.css \
+          --css ../src/lib/pandoc/css/subtitle.css \
+          --css ../src/lib/pandoc/css/book_citation.css \
+          --css ../src/lib/pandoc/css/conlang_pagenums.css \
+          \
+          --standalone \
+          --output ./dist/{{ .OUTPUT_STEM }}.html
+  pdf:conlang-pagenums:
+    desc: Pre-encode page numbers 1..PAGE_NUM_MAX to conlang glyphs as a counter-style
+    deps:
+      - conlang:build
+    aliases:
+      - pn
+    cmds:
+      - |
+        bun run scripts/gen_conlang_pagenums.js \
+          --max {{ .PAGE_NUM_MAX }} \
+          --output ./src/lib/pandoc/css/conlang_pagenums.css
+  pdf:weasyprint:
+    cmds:
+      - |
+        uv tool run weasyprint \
+          --verbose \
+          --full-fonts \
+          ./dist/{{ .OUTPUT_STEM }}.html \
+          ./dist/{{ .OUTPUT_STEM }}.pdf
+  pdf:weasyprint:debug:
+    cmds:
+      - |
+        uv tool run weasyprint \
+          --verbose \
+          --full-fonts \
+          --uncompressed-pdf \
+          ./dist/{{ .OUTPUT_STEM }}.html \
+          ./dist/{{ .OUTPUT_STEM }}.debug.pdf
+  pdf:
+    desc: Generate .pdf via WeasyPrint from the pandoc-generated HTML
+    deps:
+      - clear
+    aliases:
+      - p
+    cmds:
+      - task: pdf:engine:check
+      - task: pdf:native
+      - task: pdf:html
+      # - task: pdf:conlang-pagenums
+      - task: pdf:weasyprint
+  web:preview:
+    desc: Serve IR .html via Vite
+    aliases:
+      - pv
+    cmds:
+      - bun run vite  --host --config vite.pdf.config.js
+  web:dev:
+    desc: Serve IR .html w/ hot-reload, requires rerun of `task ph` / `task pdf:html` for rerender
+    aliases:
+      - d
+    cmds:
+      - echo "http://localhost:5173/dist/burning_stars.html"
+      - bun run vite dev --host --config vite.pdf.config.js
+  md:lint:
+    desc: Run all linters
+    deps:
+      - clear
+    aliases:
+      - lint
+      - l
+    cmds:
+      - task: md:lint:link-rot
+      - task: md:lint:spellcheck
+  md:lint:spellcheck:
+    desc: Run cspell linter with `./.cspell.yaml` tree of configurations
+    cmds:
+      - bun run cspell ./src/lib/burning_stars.md
+  md:fetch-headings:
+    cmds:
+      - |
+        bun scripts/fetch_heading_links.js \
+          --input \
+            {{.INPUT_MARKDOWN}} \
+          --output \
+            ./dist/scripts/burning_stars.links.jsonc
+    desc: Extract h1-h6 headings from markdown, convert to URL hashes
+  md:lint:link-rot:
+    desc: Check link rot of `[..](#..)` across markdown
+    deps:
+      - md:fetch-headings
+    cmds:
+      - |
+        bun ./scripts/check_links.js \
+          --reference-json \
+            ./dist/scripts/burning_stars.links.jsonc \
+          --input \
+            {{.INPUT_MARKDOWN}}
+  test:
+    desc: Run render tests
+    aliases:
+      - t
+    cmds:
+      - task: test:bq
+  test:bq:
+    desc: test output - blockquote
+    cmds:
+      - time INPUT_MARKDOWN=./tests/blockquote.md OUTPUT_STEM=test.blockquote task pdf

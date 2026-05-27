@@ -1,0 +1,33 @@
+/*
+
+h1-6 ...
+
+> _text_
+
+*/
+blockquote p:has(em:only-child) {
+  display: flex;
+  justify-content: center;
+
+  margin: 3rem 4rem;
+  margin-bottom: 0.4rem;
+  margin-top: 0rem;
+
+  em {
+    font-weight: bold;
+    font-style: normal;
+    color: var(--color-subtitle);
+    letter-spacing: 0.4px;
+    line-height: 1.6;
+  }
+
+  /*code {
+    background-color: hsla(39, 100%, 66%, 1);
+    color: hsl(343, 10%, 10%);
+    padding: 4px 26px;
+  }
+
+  & h4 {
+    margin-bottom: 2rem;
+  }*/
+}
