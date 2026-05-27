@@ -1,0 +1,54 @@
+.book-citation {
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+
+.citation-bg {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 10px;
+  background-color: var(--color-white);
+}
+
+.citation-source {
+  padding: 0.4rem;
+
+  font-size: 1.1rem;
+  letter-spacing: 0.6px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: uppercase;
+  font-family: heading;
+
+  color: var(--color-white);
+  background-color: var(--color-link);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.citation-content {
+  padding: 0rem 0.4rem;
+
+  p {
+    color: var(--color-book-citation-text);
+    font-weight: normal;
+
+    font-size: 1.0625rem;
+    line-height: 1.55;
+    font-style: italic;
+  }
+
+  p > code,
+  p {
+    padding: 5px 20px;
+    text-align: justify;
+  }
+}
+
+/*if blockquoted citation is related to the setting, make it purple.
+color purple originates from admin frame on forums*/
+.citation-bg.citation-admin .citation-source {
+  background-color: #7c31f2;
+}

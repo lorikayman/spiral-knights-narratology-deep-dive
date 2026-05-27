@@ -1,0 +1,12 @@
+# cspell.yaml
+
+version: "0.2"
+language: "en"
+
+dictionaryDefinitions:
+  - name: terms-primary
+    path: ./.cspell.terms.txt
+dictionaries:
+  - terms-primary
+ignorePaths:
+  - ./.cspell.terms.txt

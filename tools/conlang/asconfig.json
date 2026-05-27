@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "debug": {
+      "outFile": "build/conlang.wasm",
+      "textFile": "build/conlang.wat",
+      "sourceMap": true,
+      "debug": true
+    },
+    "release": {
+      "outFile": "build/conlang.wasm",
+      "textFile": "build/conlang.wat",
+      "optimizeLevel": 3,
+      "shrinkLevel": 1,
+      "converge": false,
+      "noAssert": false
+    }
+  },
+  "options": {
+    "exportRuntime": true
+  }
+}

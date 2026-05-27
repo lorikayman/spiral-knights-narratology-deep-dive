@@ -1,0 +1,20 @@
+{
+  "name": "burningstars",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "tools/conlang"
+  ],
+  "scripts": {
+    "dev": "vite dev --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "devDependencies": {
+    "cspell": "^10.0.0",
+    "cspell-cli": "^10.0.0",
+    "md-to-pdf": "^5.2.5",
+    "vite": "^8.0.13"
+  },
+  "type": "module"
+}

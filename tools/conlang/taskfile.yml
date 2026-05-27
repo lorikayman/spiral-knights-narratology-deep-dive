@@ -1,0 +1,36 @@
+# https://taskfile.dev
+
+version: "3"
+
+tasks:
+  default:
+    cmds:
+      - task --list
+  build:
+    desc: Compile the AssemblyScript codec to wasm (release)
+    aliases: [b]
+    cmds:
+      - bun run build
+  build:debug:
+    desc: Compile the codec to wasm with sourcemap (debug)
+    aliases:
+      - bd
+    cmds:
+      - bun run build:debug
+  test:
+    desc: Build the wasm then run bun tests
+    aliases: [t]
+    cmds:
+      - bun run test
+  encode:
+    desc: Encode text to glyphs `task encode -- "text"`
+    deps:
+      - build
+    cmds:
+      - bun run src/cli.js --encode --input {{.CLI_ARGS}}
+  decode:
+    desc: Decode glyphs to text `task decode -- "glyphs"`
+    deps:
+      - build
+    cmds:
+      - bun run src/cli.js --decode --input {{.CLI_ARGS}}
