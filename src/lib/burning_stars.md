@@ -106,7 +106,7 @@ Chapters `5-8` continue this notion with greater focus on consistency of explore
 
 ### _Chapter `I`_ Cosmology
 
-> _"The Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries."_
+> _"Since its original discovery, Dark Matter has been put to a variety of uses, from powering Spiral technology, to rearranging Gremlins on a subatomic level."_
 
 At first, we will establish rough outline of the cosmology based on rank missions' briefings, dialogues, items, and equipment. Currently we are not concerned with exact in-Universe laws, under which each dimension or realm operates, but with their general themes and initial premise.
 
@@ -1530,7 +1530,7 @@ While we are unaware of the role of dragons for Spiral Order, the sharp design o
 
 ### _Chapter `V`_ Spiral Order
 
-> _"Since its original discovery, Dark Matter has been put to a variety of uses, from powering Spiral technology, to rearranging Gremlins on a subatomic level."_
+> _"The Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries."_
 
 Spiral Order is established as a military organization with characteristic elements of their past spread through main story and equipment descriptions. Through those items this civilization's supposed homeworld and name are revealed.
 
