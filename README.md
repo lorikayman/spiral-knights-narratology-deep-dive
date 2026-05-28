@@ -2,7 +2,7 @@
 
 This repository contains the sources of a study of Spiral Knights fictional setting, its lore, mythology, and worldbuilding: [`src/lib/burning_stars.md`](./src/lib/burning_stars.md).
 
-![preview](https://raw.githubusercontent.com/lorilorimori/spiral-knights-worldbuilding/refs/heads/master/static/img/chapters/1_5_preview.png)
+<!--![preview](https://raw.githubusercontent.com/lorilorimori/spiral-knights-worldbuilding/refs/heads/master/static/img/chapters/1_5_preview.png)-->
 
 The document is built into `.pdf`
 
