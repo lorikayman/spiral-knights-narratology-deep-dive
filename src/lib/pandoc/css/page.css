@@ -203,7 +203,7 @@ h3#chapter-vii-s-gunslinger-priests {
   string-set: chapter-conlang "▄█▖▘▌▜▌▞▌▗▞▌▜█▚▌▙ ▄▌▛▌▙▞▚▌▞▌▟▌▞";
 }
 h3#chapter-viii-kat-tribe {
-  background-image: url("./../../../../static/img/chapters/8_kat_tribe_v3.png");
+  background-image: url("./../../../../static/img/chapters/8_kat_tribe.png");
   background-size: cover;
   string-set: chapter-conlang "▄▌▘▘▌▟ ▄▌▟▌▙▞▗▚";
 }
@@ -220,7 +220,7 @@ h3#chapter-ix-gremlin-empire {
   string-set: chapter-conlang "▄█▌▙▚▌▀▌▗▞▌▜ ▄▚▌▀▌▛▞▌▙▚";
 }
 h3#chapter-ix-s-swarm {
-  background-image: url("./../../../../static/img/chapters/9-5_swarm.png");
+  background-image: url("./../../../../static/img/chapters/9_5_swarm.png");
   background-size: cover;
   string-set: chapter-conlang "";
 }
@@ -252,4 +252,8 @@ h3#final-chapter-spiral-of-burning-stars > .cover-content {
 h3#chapter-x-spiral-knights > .cover-content > br,
 h3#final-chapter-spiral-of-burning-stars > .cover-content > br {
   display: none;
+}
+
+h3#final-chapter-spiral-of-burning-stars {
+  color: var(--color-h-final);
 }
