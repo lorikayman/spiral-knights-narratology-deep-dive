@@ -78,7 +78,7 @@ Chapters 1-4 perform a general overview of the setting outside of megastructure 
 
 Chapters 5-8 continue this notion with greater focus on consistency of explored in-Universe principles and Universe's metaphysics. Chapter 9 uses the resulting system and applies it to the state megastructure of Cradle as it is presented in-game.
 
-- [Chapter 1](#chapter-i-cosmology) establishes basic outline of the Spiral Knights' Universe, its cosmology, creation myth, and role of alchemy.
+- [Chapter 1](#chapter-i-cosmology) establishes basic outline of the Spiral Knights Universe, its cosmology, creation myth, and role of alchemy.
 - [Chapter 2](#chapter-ii-underworld) introduces major actors within Underworld.
 - [Chapter 3](#chapter-iii-tortomega) covers creators of tortodrones.
 - [Chapter 4](#chapter-iv-heavenly-kingdom) makes introduction of the heavenly kingdom and Valkyries.
@@ -413,7 +413,7 @@ Referencing the description of [Alchemy for Beginners](https://wiki.spiralknight
 >
 > Alchemy is a craft mastered by the Spiral Knights that allows for the inherent powers of various materials to awaken and fuse with each other in order to form powerful, new items! The Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries.
 
-The term of `inherent power` will be kept track of, as it offers the foundation for _this Universe's version of alchemy as a tool_, as well suggests a set of symbolic, supernatural, or metaphysical principles for this reality to accommodate for a scope of the select, currently unidentified alchemical concepts, as ones having a foundation in Spiral Knights' metaphysics, rather than being a precursor to chemistry as it is in the present reality.
+The term of `inherent power` will be kept track of, as it offers the foundation for _this Universe's version of alchemy as a tool_, as well suggests a set of symbolic, supernatural, or metaphysical principles for this reality to accommodate for a scope of the select, currently unidentified alchemical concepts, as ones having a foundation in Spiral Knights metaphysics, rather than being a precursor to chemistry as it is in the present reality.
 
 We will consider this in-Universe concept of alchemy as one inspired by real-world many western and eastern interpretations of alchemy, while preserving the core goals of alchemy independent of the setting, even a futuristic one. The existence of many conflicting interpretations of alchemy and nature of those is also one inherent property we should keep in mind:
 
@@ -677,7 +677,7 @@ Layoafers and blarfuls in relation to the rest of corporate hierarchy do not see
 
 [▄▜▘▌▙▌▘ ▄▀▞▌▟▞▚▌▞]{.conlang}
 
-Devilite society is developed enough for corporations to exist, and even considered that Devilites were from a different intellectual property, they remain in Spiral Knights' cosmology and setting.
+Devilite society is developed enough for corporations to exist, and even considered that Devilites were from a different intellectual property, they remain in Spiral Knights cosmology and setting.
 
 It is suggested by Spiral Order that Devilites within Dark Cities are stranded on Cradle:
 
@@ -1050,7 +1050,7 @@ Yet, this _does not explain_ the naming convention of titans and the distinct de
 
 More so, the term titans creates cultural associations with mythology, such as _jotun, giants of Norse mythology_, _titans of greek mythology_, _fomorians of irish mythology_, where each of those species may fit into corresponding time periods described by the above equipment.
 
-Both across the myths, as titans and giants, and as dragons of this cosmogony, they embody an entity or entities, who would become a **literal, physical foundation of the world**, being essential to the creation myth. While in Spiral Knights' cosmology this role of world progenitors is delegated to dragons, its Universe's titans might have to be placed if not alongside them, then in their temporal proximity, similar to riders given their initial identification as gods.
+Both across the myths, as titans and giants, and as dragons of this cosmogony, they embody an entity or entities, who would become a **literal, physical foundation of the world**, being essential to the creation myth. While in Spiral Knights cosmology this role of world progenitors is delegated to dragons, its Universe's titans might have to be placed if not alongside them, then in their temporal proximity, similar to riders given their initial identification as gods.
 
 This, as stated earlier, requires us to look for other potential candidates at a role of titans across the timeline to fulfill similar role.
 
@@ -3632,7 +3632,7 @@ For now we will commit to a scenario, where Blinding Abyss is representative of 
 
 [▄▌▚▌▛▚▌▙▘▌▟▞▌▚▌▜ ▄█▚▌▗▞▜]{.conlang}
 
-At the same time, presence of Spiral Knights' armor within the [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box) roster might suggest that Imp could be involved though the design similarities to the Apocrean gear. Those being:
+At the same time, presence of Spiral Knights armor within the [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box) roster might suggest that Imp could be involved though the design similarities to the Apocrean gear. Those being:
 
 - `A plated robe said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Mantle](https://wiki.spiralknights.com/Arctic_Acolyte_Mantle)).
 - `A hood said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Hood](https://wiki.spiralknights.com/Arctic_Acolyte_Hood)).
@@ -12728,7 +12728,7 @@ As for the Swarm, there is no end present in the campaign. Aspect of Swarm's sca
   - Celeste's designs found near the heart of the mountains within its Core.
 - _Symbolic value of the void_. Void is fought through embodiments within the Swarm.
   - Crimson Desert's Final Abyss as a realm is reminisce of the Void through its architecture.
-  - Hollow Knight's Void possesses similar themes of being explicitly alien, yet this case is different from Spiral Knights' void due to lack of malevolent of the latter in its natural state.-->
+  - Hollow Knight's Void possesses similar themes of being explicitly alien, yet this case is different from Spiral Knights void due to lack of malevolent of the latter in its natural state.-->
 
 Lastly, there is the Swarm and Apocrea as two distinct antagonistic in classical sense forces. Apocrea is framed as a deity with identity and motivation, achieved though complex manipulations. It attempts to negate a reality as a goal, to which it may bring the living beings. It uses souls and has high possibility of using them to exist.
 
@@ -12973,9 +12973,9 @@ But, the Gremlins of Spiral Knights have a distinct design which through existen
 
 The `Gremlins` establishes the animalistic anatomy of _mogwai_ and a corresponding Gremlin transformation. Mogwai, _given their furry appearance compared to reptilian appearances of Gremlins_, have a possibility of being utilized as a component of Cradle's Gremlins' design.
 
-It is important to emphasize that we do not possess the knowledge of the creative process itself, its multi-step process of continuous iteration and evolution of the concept from an initial to the final design, of what came to be the source of inspiration, and were there at a certain point an influence to be found in Spiral Knights' Gremlins of their movie predecessors.
+It is important to emphasize that we do not possess the knowledge of the creative process itself, its multi-step process of continuous iteration and evolution of the concept from an initial to the final design, of what came to be the source of inspiration, and were there at a certain point an influence to be found in Spiral Knights Gremlins of their movie predecessors.
 
-We will work from a perspective, wherein **both movie's Gremlins and Spiral Knights' Gremlins** _do reinvent the idea taken from an aircraft folklore of_ **fae folk Gremlins**, and then we will compare the design of both in their anatomy and character.
+We will work from a perspective, wherein **both movie's Gremlins and Spiral Knights Gremlins** _do reinvent the idea taken from an aircraft folklore of_ **fae folk Gremlins**, and then we will compare the design of both in their anatomy and character.
 
 - Cradle's Gremlins anatomy, compared to plantigrade anatomy of mogwai, as a fully-developed interstellar civilization, has properties similar to ones of the anatomy of `Gremlins`' Gremlins, such as bipedal digitigrade method of locomotion and anatomical proportions.
 
@@ -12986,7 +12986,7 @@ We will work from a perspective, wherein **both movie's Gremlins and Spiral Knig
 
   The behavioral aspect and folklore nudge to relation with technology is also found in the movie.
 
-  If we take in prior inspirations of elf-like human design of Gremlins before the `Gremlins` movie defined their more recent appearances, we have to attribute the presence of fur and animal-like behavior as the design choices both for Spiral Knights' Gremlins and `Gremlins`' Gremlins, wherein Gremlin of Cradle are given time to become a highly-advanced civilization.
+  If we take in prior inspirations of elf-like human design of Gremlins before the `Gremlins` movie defined their more recent appearances, we have to attribute the presence of fur and animal-like behavior as the design choices both for Spiral Knights Gremlins and `Gremlins`' Gremlins, wherein Gremlin of Cradle are given time to become a highly-advanced civilization.
 
   Unfortunately, no other work of art we had found that had reinvented a folklore Gremlin with an anthropomorphic design, this similarity led us to propose that `Gremlins` movie could have been a potential inspiration for the furred animalistic design.
 
@@ -12994,7 +12994,7 @@ We will work from a perspective, wherein **both movie's Gremlins and Spiral Knig
   - _the name came to be the first_, with the design to follow after into the system of relations with machinery, or;
   - _the design of a species was labeled later as Gremlins_ as the relation with machinery had required a firm visual and mythological foundations for its species through potential deconstruction of the prior concepts.
 
-At that point we already possess an original idea of a different Gremlin, a Gremlin of Cradle, which managed to incorporate an environmental aspect, behavioral, and an anatomical, through subversion, reconstruction, direct utilization and exploration of those concepts. The impression of organic emergence of those individual concepts in Spiral Knights' Gremlin species, we suspect, emerges from _careful consideration of each of those properties_, which betrays our unfamiliarity with the process of the development in this analysis.
+At that point we already possess an original idea of a different Gremlin, a Gremlin of Cradle, which managed to incorporate an environmental aspect, behavioral, and an anatomical, through subversion, reconstruction, direct utilization and exploration of those concepts. The impression of organic emergence of those individual concepts in Spiral Knights Gremlin species, we suspect, emerges from _careful consideration of each of those properties_, which betrays our unfamiliarity with the process of the development in this analysis.
 
 The anatomical differences of `Gremlins`' mogwai and its Gremlins to Cradle's Gremlins may be found in the selective merging of mogwai and Gremlins' traits as suggested above and followed by further development of the species' designs until they would be seen to fit a setting where they are perceived as a unique spacefaring civilization.
 
@@ -13056,7 +13056,7 @@ The military and technology-related origins of its ancestor are acknowledged, as
 
 These Gremlins preserve now expanded character traits beyond causing strictly the technology to malfunction. The relation with the technology is depicted as if mogwai shown general non-intrusive interest in technology, rather than being direct reason for its malfunction, while Gremlins do cause harm to the technology.
 
-1. Spiral Knights' Gremlins took as foundation furred anatomy reminiscent of mogwai, digitigrade characteristic and proportions of `Gremlins`' Gremlins, and general mischievousness of their character with _added cultural background underpinning entirety of Spiral Knights as a game_.
+1. Spiral Knights Gremlins took as foundation furred anatomy reminiscent of mogwai, digitigrade characteristic and proportions of `Gremlins`' Gremlins, and general mischievousness of their character with _added cultural background underpinning entirety of Spiral Knights as a game_.
 
   The relation to technology becomes positive, but haphazard nature remains. As a mechanical habitat, it is expanded from a factory or an aircraft to a mechanical megastructure to accommodate for the scale of a new setting.
 
@@ -13275,7 +13275,7 @@ The cozy aesthetic is initially established by the art style and safety of the C
 
 The unknown provides a variety within their settings, being the Layers of the Abyss or the regions and tier depths of Clockworks. In both cases to reach them there is only verticality as a medium, access either from the City or Haven's Arcade as the points where the expedition for the delvers begins. The verticality of Cradle is traversable only by elevators, while Abyss does not present such transport as widespread.
 
-In the end of the descend fit within a narrative structure milestones are presented to the protagonists to surpass. While Spiral Knights' narrative is at its most broad sense was extraction of the Core's energy, access to the Core was obstructed by emerging threats (Gremlins, Alpha Squad trail) and obstacles to be overpowered and reconciliated (Firestorm Citadel), Made in Abyss narrative is one of continuous confronting with manifestations of the Abyss as an extreme environment throughout each of its layers, which also require overpowerment or reconciliation (Seeker Camp, Ido Front, the Village at the Sixth Layer).
+In the end of the descend fit within a narrative structure milestones are presented to the protagonists to surpass. While Spiral Knights narrative is at its most broad sense was extraction of the Core's energy, access to the Core was obstructed by emerging threats (Gremlins, Alpha Squad trail) and obstacles to be overpowered and reconciliated (Firestorm Citadel), Made in Abyss narrative is one of continuous confronting with manifestations of the Abyss as an extreme environment throughout each of its layers, which also require overpowerment or reconciliation (Seeker Camp, Ido Front, the Village at the Sixth Layer).
 
 In both cases protagonists' surface goal had remained unchanged throughout the expedition, but its context and relation to the environment had expanded and deepened throughout the growing familiarity with the environments (the inner motivation of characters and their true personal goals), be it nature and role of the Core with introduction of eldritch horror or the supernaturality of the Ring of Light at the Seventh Layer underpinned by experiences of prior layers.
 
