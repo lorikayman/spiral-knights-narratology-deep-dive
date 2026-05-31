@@ -114,27 +114,15 @@ From in titles
 - [x] strata application
 - [x] blue -> teal, in the context of Core colors, or synonyms
 
-#### Misc
-
-- [ ] its is
-- [ ] along the
-- [x] crystall -> crystal
-- [x] modern-day -> modern/present
-- [x] specie -> species
-- [x] `whome` -> `whom`
-- [x] `weather` -> `whether`
-- [x] phrasing -> wording
-
 ## pdf
 
-- [ ] below h1 add clouded core + core gold key. redraw 1-5-preview at 2k resolution
-- [ ] add images-splashes for chapters
-- [ ] page numbers + their conlang
-- [ ] conlang below headings
+- [x] add images-splashes for chapters
+- [x] page numbers + their conlang
+- [x] conlang below headings
 - [x] administration texts, out-of-universe texts but related to SK - make purple as in admin frame on forums
-- [ ] conlang device (lorewise apply lang)
-- [ ] book citation filter move to plain css?
-- [ ] lock weasyprint and pandoc versions
+- [x] conlang device (lorewise apply lang)
+- [x] book citation filter move to plain css?
+- [ ] lock weasyprint and pandoc versions, remove them from path
 
 ## CONSIDER
 
