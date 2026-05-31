@@ -6,20 +6,9 @@ This repository contains the sources of a study of Spiral Knights fictional sett
 
 The document is built into `.pdf`
 
-Build requirements:
+Refer to [taskfile](./taskfile.yml) for further available actions, linux-only.
 
-- `Node` or other compatible javascript runtime (herein `bun`)
-- `npm`-compatible package manager (herein `bun`)
-
-1. Install the dependencies:
-
-  ```sh
-  bun install
-  ```
-
-2. Refer to [taskfile](./taskfile.yml) for further available actions
-
-For pdf generation install additional packages: `weasyprint`, `pandoc`. Both tools should be available from `$PATH`.
+For pdf generation additional packages are required: `weasyprint`, `pandoc`. Both tools should be available from `$PATH`.
 
 Herein WeasyPrint is intalled through `uv` package manager:
 
