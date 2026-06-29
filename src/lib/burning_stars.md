@@ -14,7 +14,7 @@ We acknowledge that without expertise on topics of game-, narrative-, and enviro
 
 Our approach is two-fold. First we will treat each individual hint the setting presents in regards to its worldbuilding -- lore, metaphysics, in-Universe mythology -- _as in-Universe, objective truths_. Through this approach we will construct a _symbolic framework_ and an in-Universe timeline.
 
-This approach contrasts one Spiral Knight presents as an open-ended system _with story being its addition rather than central element_. Spiral Knights is also a game created prior to a cultural shift of Internet theory-crafting space of _mid 2010s with advent of story-centered analysis of video games_, with symbolic reading while being an important asset, it can be overlooked.
+This approach contrasts one Spiral Knights presents as an open-ended system _with story being its addition rather than central element_. Spiral Knights is also a game created prior to a cultural shift of Internet theory-crafting space of _mid 2010s with advent of story-centered analysis of video games_, with symbolic reading while being an important asset, it can be overlooked.
 
 Due to both _interpretative and generative_ nature of this step, proposal of any narrative not suggested by the game itself (or other medium) is prone to overinterpretation of the base material. In particular, we split this work onto two distinct parts -- the over-analysis of the game's world by interpretation _throughout chapters 1-10_, followed by _chapter 11_, where we treat the discovered symbols as the elements of the underlying aesthetical system, reconstructing it.
 
@@ -12690,9 +12690,9 @@ Such actor must breach any established systems within the megastructure, this na
 
   In both cases of the Mass and the Swarm the history of their respective settings in regards to those threats' states is concealed.
 
-- Broken Script, version 1.
+- Broken Script: The Void.
 
-  As the Swarm, entities of Broken Script erode and bleed into their confinement, being the Overworld. While in both cases concept of the Void as a fundamental substance is present, its neutral quality is also obscured by the fact of only beings of void physiology being antagonistic to the protagonists.
+  As the Swarm, entities of Broken Script and its precursor Mark101 series progress into the Overworld from the Void. While in both cases concept of the Void as a fundamental, cosmic substance is present, its neutral quality is also obscured by the fact of only beings of void physiology being antagonistic to the protagonists.
 
   Compared to above examples, this Void is fundamental to the setting while being part of threat's physiology. Yet, it is unknown whether this Void is malevolent in its natural environment.
 
