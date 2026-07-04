@@ -1,8 +1,7 @@
 # Metamodern Gremlin of Cradle - Influence Map
 
 Revised influence-mapping graph for the Gremlin species, grounded in
-`src/lib/burning_stars.md` -> Final Chapter -> "A Metamodern Gremlin of Cradle"
-(and the species' lore chapter IX). Supersedes the `gremlins.drawio` draft.
+`src/lib/burning_stars.md`'s "A Metamodern Gremlin of Cradle."
 
 ## Purpose
 
@@ -10,38 +9,22 @@ This version is organized as a character analysis tool.
 
 The species sits at the center as the hub, and every other node is sorted into one of five analytical layers, with the authorial (Doylist) genealogy kept visually distinct from in-fiction (Watsonian) role and meaning.
 
-## Edge vocabulary
+<!--## Edge vocabulary
 
 _typed, not interchangeable_
 
 | Edge | Meaning |
 | ---- | ------- |
 | `inspires` / `reinvented by` | Doylist lineage between real-world referents |
-| `define anatomy` / `define character` / `habitat logic` | a referent contributes a specific component to the species |
+| `define anatomy` / `define character` / `trait logic` | a referent contributes a specific component to the species |
 | `manifests` | species -> a body/design trait it actually has in-game |
 | `functions as` | species -> a role it performs in story or setting |
 | `embodies` | a design or role -> the theme it carries |
-| `oscillates` (bi-directional) | the metamodern comic <-> serious tension |
-
-## The five layers
-
-
-- Role in the story (Liminal Thresholds)
-
-- Role in the setting (Symbolic Configuration)
-
-- Themes (Hyperreal Margin)
-
-
+| `oscillates` (bi-directional) | the metamodern comic <-> serious tension |-->
 
 ```mermaid
 flowchart TD
-  GREMLINS["GREMLINS (Spiral Knights)"]
-  MEGASTRUCTURE["Megastructure (Cradle / Clockworks):
-    Axis Mundi,
-    Cosmic Egg,
-    Celestial Prison"]
-  THESIS["THESIS: celestial/divine phenomena systematized through hyperadvanced technology and wielded by a highly animalistic, vermin-like, semi-comedic, militaristic species"]
+  THESIS["THESIS: celestial/divine phenomena systematized through hyperadvanced technology and wielded by a highly animalistic, vermin-like, semi-comedic, militaristic species. Karmic consequences manifest in (supernatural/divine) power of their creation (megastruucture) becoming uncontrolled."]
 
   %% Authorial inspiration (fae folklore -> wartime aircraft Gremlin -> Dahl -> Gremlins 1984), and the precise component each donates.
   subgraph GENES["Doylist genealogy"]
@@ -51,7 +34,8 @@ flowchart TD
     GREMLINS_1943["Gremlins (The Gremlins, 1943):
       elf-like fae folk,
       natural habitat replaced with machinery,
-      war victims, masters of technology"]
+      multifaceted connection to war,
+      masters of technology"]
     MOGWAI["Mogwai (Gremlins, 1984):
       furred, non-hostile design,
       self-conscious"]
@@ -62,6 +46,7 @@ flowchart TD
 
   subgraph BODY["Character Appearances"]
     direction TB
+    GREMLINS["GREMLINS (Spiral Knights)"]
     ANATOMY["Animalistic body:
       vermin, furry, apex predators"]
     UNIFORM["Uniform/culture presentation:
@@ -73,28 +58,32 @@ flowchart TD
 
   subgraph SETTING["Role in the setting"]
     direction TB
+    MEGASTRUCTURE["Megastructure (Cradle / Clockworks):
+      Axis Mundi,
+      Cosmic Egg,
+      Celestial Prison"]
     BUILDERS["Builders of the megastructure"]
     PRISON["Imprisoned in their creation"]
-    EMPIRE_PAST["Fallen kingdom:
+    PAST["Fallen kingdom:
       (myth of) an absent philosopher-king,
       greek architecture,
       bears lost technology (most advanced/Core-related technology),
       lack of limits,
       metaphysical unity,
       white/blue/yellow/gold color motif"]
-    IMPERIAL_MOTIF["Imperial motif:
+    IMPERIAL["Imperial motif:
       totalitarian regime,
       roman/imperial architecture,
       wonder-weapons,
       weaponized metaphysics (shadow damage technology),
-      struggling existence ("Mettle of a gremlin"),
+      struggling existence ('Mettle of a gremlin'),
       red/black/white color motif"]
     FALL["Loss of agency/prosperity:
       megastructure seiged by Underworld (failure to address it),
       failing state,
       guradians of megastructure turned prisoners,
       create and conceal eldrith/comsic/body horror (Swarm/undeath)"]
-    SABOTAGE["Presented means for agents of chaos to emerge (Herex)"]
+    SABOTAGE["Notions of agents of chaos to emerge (Herex)"]
   end
 
   subgraph ROLE["Role in the story"]
@@ -129,58 +118,82 @@ flowchart TD
   end
 
   %% A: genealogy and the components each donates
-  %% FAE -->|inspires| GAVF
-  %% AVF -->|inspires| GDAHL
-  %% FAE -->|inspires| MOG
-  %% FAE -->|inspires| G84
-  %% AVF -->|reinvented by| MOG
-  %% AVF -->|reinvented by| G84
-  %% MOG ==>|define anatomy| GREM
-  %% G84 ==>|define character| GREM
-  %% DAHL -->|habitat logic| GREM
-  %% AVF ==>|"name => tech-relation (malfunction subverted)"| GREM
+  FAE ==>|inspires| GREMLINS_FOLKLORE
+
+  GREMLINS_FOLKLORE -->|inspires| GREMLINS_1943
+
+  FAE -->|inspires| MOGWAI
+  FAE -->|inspires| GREMLINS_1984
+
+  GREMLINS_FOLKLORE -->|reinvented by| MOGWAI
+  GREMLINS_FOLKLORE -->|reinvented by| GREMLINS_1984
+  GREMLINS_1943 -->|inspires| GREMLINS_1984
+
+  MOGWAI ==>|provide anatomy| GREMLINS
+  GREMLINS_1984 ==>|provide character| GREMLINS
+  GREMLINS_FOLKLORE -->|setting logic| GREMLINS
 
   %% B: design
-  %% GREM -->|manifests| ANIM
-  %% GREM -->|manifests| UNIF
-  %% GREM -->|manifests| GOG
-  %% GOG --> GOGS
-  %% GOG --> GOGC
-  %% GOG --> CONC
+  GREMLINS -->|manifests| ANATOMY
+  MOGWAI -.->|provides| ANATOMY
+  GREMLINS -->|manifests| UNIFORM
+  GREMLINS_1943 -->|shared industry inspires| UNIFORM
 
-  %% C: story role + oscillation spine
-  %% GREM -->|functions as| TUT
-  %% TUT --> COMIC
-  %% COMIC -->|surface hides depth| CONCEAL
-  %% COMIC <-->|oscillation spine| SHIFT
+  %% setting
+  GREMLINS --> BUILDERS
+  GREMLINS --> IMPERIAL
+  GREMLINS --> MEGASTRUCTURE
+  BUILDERS ==> MEGASTRUCTURE
+  MEGASTRUCTURE ==> GREMLINS
+  GREMLINS_1943 -->|habitat (factory) reinvented as megastructure by| GREMLINS
+  MEGASTRUCTURE -.->|provides| PRISON
+  GREMLINS_1943 -.->|habitat reinvented by| MEGASTRUCTURE
 
-  %% D: setting role + bi-directional bond with the megastructure
-  %% GREM -->|functions as| BUILD
-  %% BUILD ==>|creates, then imprisoned by| MEGA
-  %% MEGA ==>|gives character + stage for stakes| GREM
-  %% BUILD --> PRISON
-  %% GREM -->|functions as| MILIT
-  %% EARLY -->|fall from grace| MILIT
-  %% PRISON --> FALL
-  %% MILIT --> FALL
-  %% FALL --> HEREX
-  %% HEREX -.->|escalates| CONCEAL
+  PAST -->|fall from grace| IMPERIAL
+  FALL -->|reveals| PAST
+  FALL -->|provides| IMPERIAL
+  FALL -.->|manifests| PRISON
+  SABOTAGE -->|manifests| IMPERIAL
+  IMPERIAL -->|manifests| PRISON
+  SABOTAGE -->|manifests| FALL
+  IMPERIAL -->|provides| CONCEAL
+  SABOTAGE -->|reveals| CONCEAL
 
-  %% E: convergence on themes, then thesis
-  %% COMIC ==>|embodies| META
-  %% SHIFT ==>|embodies| META
-  %% ANIM ==>|embodies| HUMAN
-  %% PRISON ==>|embodies| HUMAN
-  %% BUILD ==>|embodies| CRIT
-  %% MEGA ==>|embodies| CRIT
-  %% GOGC ==>|embodies| HORR
-  %% ANIM ==>|embodies| HORR
-  %% COMIC ==>|embodies| HORR
-  %% HORR -->|bridges to endgame| CONCEAL
-  %% META --> THESIS
-  %% HUMAN --> THESIS
-  %% CRIT --> THESIS
-  %% HORR --> THESIS
+  %% story
+  GREMLINS -->|functions as| ANTAGONISTS
+  GREMLINS -->|manifest| COMIC
+  GREMLINS -->|manifest| CONCEAL
+  COMIC -->|manifest| CONCEAL
+  COMIC -->|oscillates| CONCEAL
+  COMIC -.->|oscillates| SHIFT
+  SHIFT -.->|reveals| FALL
+  SHIFT -.->|manifests| CONCEAL
+  ANTAGONISTS -->|reveals| CONCEAL
+
+  %% convergence on themes
+  COMIC --> METAMODERN
+  SHIFT --> METAMODERN
+
+  ANATOMY -->|embodies| HUMAN
+  MEGASTRUCTURE ==> HUMAN
+  FALL --> HUMAN
+  IMPERIAL --> HUMAN
+  PAST --> HUMAN
+  SABOTAGE --> HUMAN
+  IMPERIAL --> CRIT
+
+  BUILDERS ==>|embodies| CRIT
+  MEGASTRUCTURE ==>|embodies| CRIT
+
+  CONCEAL ==>|reveals| KARMA
+
+  MEGASTRUCTURE ==> THESIS
+  CONCEAL ==> THESIS
+  GREMLINS ==> THESIS
+  METAMODERN --> THESIS
+  HUMAN --> THESIS
+  CRIT --> THESIS
+  KARMA --> THESIS
 
   %% class GREM,MEGA,THESIS prot;
   %% class FAE,AVF,DAHL,MOG,G84 doylist;
