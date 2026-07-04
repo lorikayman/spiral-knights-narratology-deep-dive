@@ -145,7 +145,7 @@ flowchart TD
   GREMLINS --> MEGASTRUCTURE
   BUILDERS ==> MEGASTRUCTURE
   MEGASTRUCTURE ==> GREMLINS
-  GREMLINS_1943 -->|habitat (factory) reinvented as megastructure by| GREMLINS
+  GREMLINS_1943 -->| aritificial habitat becomes megastructure by| GREMLINS
   MEGASTRUCTURE -.->|provides| PRISON
   GREMLINS_1943 -.->|habitat reinvented by| MEGASTRUCTURE
 
