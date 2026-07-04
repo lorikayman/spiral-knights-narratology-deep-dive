@@ -1,16 +1,16 @@
-# A Metamodern Gremlin of Cradle: Influence Map
+# Metamodern Gremlin of Cradle: Influence Map
 
 <!--Here we attempt to truncate the essay, the setting, as being built from archetypal material, so stripping the lore does not expose neutral structure (albeit it would be fitting but more verbose), exposing the archetypal layer, whose traditional names/tokens are mythologems. Mythologems behave in this case as the densest tokens available for pattern-shaped emotionally-charged by the player meaning proposed in the essay.-->
 
 ```mermaid
 flowchart TD
-  THESIS["THESIS: celestial/divine phenomena systematized through hyperadvanced technology and wielded by a highly animalistic, vermin-like, semi-comedic, militaristic species. Karmic consequences manifest in (supernatural/divine) power of their creation (megastruucture) becoming uncontrolled."]
+  THESIS["THESIS: celestial/divine phenomena systematized through hyperadvanced technology and wielded by a highly animalistic, vermin-like, semi-comedic, militaristic species. Karmic consequences manifest in (supernatural/divine) power of their creation (megastructure) becoming uncontrolled."]
 
   %% Authorial inspiration (fae folklore -> wartime aircraft Gremlin -> Dahl -> Gremlins 1984), and the precise component each donates.
   subgraph GENES["Doylist genealogy"]
     direction TB
-    FAE["Fae folk (folklore): the mythological sphere of unknown"]
-    GREMLINS_FOLKLORE["Gremlins (Wartime aircraft folklore): source of malfunction, inhabit factories/aircrafts"]
+    FAE["Fae folk (folklore): the mythological sphere of the unknown"]
+    GREMLINS_FOLKLORE["Gremlins (Wartime aircraft folklore): source of malfunction, inhabit factories/aircraft"]
     GREMLINS_1943["Gremlins (The Gremlins, 1943):
       elf-like fae folk,
       natural habitat replaced with machinery,
@@ -59,10 +59,10 @@ flowchart TD
       struggling existence ('Mettle of a gremlin'),
       red/black/white color motif"]
     FALL["Loss of agency/prosperity:
-      megastructure seiged by Underworld (failure to address it),
+      megastructure besieged by Underworld (failure to address it),
       failing state,
-      guradians of megastructure turned prisoners,
-      create and conceal eldrith/comsic/body horror (Swarm/undeath)"]
+      guardians of megastructure turned prisoners,
+      create and conceal eldritch/cosmic/body horror (Swarm/undeath)"]
     SABOTAGE["Notions of agents of chaos to emerge (Herex)"]
   end
 
@@ -73,12 +73,12 @@ flowchart TD
       tutorial's major enemy,
       concealed by subplots"]
     COMIC["Comic-relief villains:
-      fail to a single knight,
+      fall to a single knight,
       episodic,
       never are an actualized threat"]
     CONCEAL["Conceal true threat and conflict (Swarm, Sleeper/Core/megastructure origin)"]
     SHIFT["Perpetuate tone shift of Tier 2 to 3:
-      lay foundations for grim, serious, true, endgame narrative tied to the megastructure"]
+      lay foundations for grim, serious, endgame narrative tied to the megastructure"]
   end
 
   subgraph THEMES["Themes"]
@@ -125,7 +125,7 @@ flowchart TD
   GREMLINS --> MEGASTRUCTURE
   BUILDERS ==> MEGASTRUCTURE
   MEGASTRUCTURE ==> GREMLINS
-  GREMLINS_1943 -->| aritificial habitat becomes megastructure by| GREMLINS
+  GREMLINS_1943 -->|artificial habitat becomes megastructure by| GREMLINS
   MEGASTRUCTURE -.->|provides| PRISON
   GREMLINS_1943 -.->|habitat reinvented by| MEGASTRUCTURE
 
