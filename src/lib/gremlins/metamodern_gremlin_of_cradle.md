@@ -194,11 +194,4 @@ flowchart TD
   HUMAN --> THESIS
   CRIT --> THESIS
   KARMA --> THESIS
-
-  %% class GREM,MEGA,THESIS prot;
-  %% class FAE,AVF,DAHL,MOG,G84 doylist;
-  %% class ANIM,UNIF,GOG,GOGS,GOGC,CONC design;
-  %% class TUT,COMIC,CONCEAL,SHIFT story;
-  %% class BUILD,PRISON,MILIT,EARLY,FALL,HEREX setting;
-  %% class META,HUMAN,CRIT,HORR theme;
 ```
