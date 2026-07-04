@@ -164,10 +164,10 @@ flowchart TD
   MEGASTRUCTURE ==>|embodies| CRIT
 
   CONCEAL -->|reveals| KARMA
-  IMPERIAL -.->|embodies| KARMA
-  SABOTAGE -.->|embodies| KARMA
-  FALL -.->|embodies| KARMA
-  PRISON -.->|embodies| KARMA
+  IMPERIAL -.->|manifests| KARMA
+  SABOTAGE -.->|manifests| KARMA
+  FALL -.->|manifests| KARMA
+  PRISON -.->|manifests| KARMA
 
   MEGASTRUCTURE ==> THESIS
   CONCEAL ==> THESIS
