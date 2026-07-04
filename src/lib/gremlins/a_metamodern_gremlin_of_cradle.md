@@ -1,26 +1,4 @@
-# Metamodern Gremlin of Cradle - Influence Map
-
-Revised influence-mapping graph for the Gremlin species, grounded in
-`src/lib/burning_stars.md`'s "A Metamodern Gremlin of Cradle."
-
-## Purpose
-
-This version is organized as a character analysis tool.
-
-The species sits at the center as the hub, and every other node is sorted into one of five analytical layers, with the authorial (Doylist) genealogy kept visually distinct from in-fiction (Watsonian) role and meaning.
-
-<!--## Edge vocabulary
-
-_typed, not interchangeable_
-
-| Edge | Meaning |
-| ---- | ------- |
-| `inspires` / `reinvented by` | Doylist lineage between real-world referents |
-| `define anatomy` / `define character` / `trait logic` | a referent contributes a specific component to the species |
-| `manifests` | species -> a body/design trait it actually has in-game |
-| `functions as` | species -> a role it performs in story or setting |
-| `embodies` | a design or role -> the theme it carries |
-| `oscillates` (bi-directional) | the metamodern comic <-> serious tension |-->
+# A Metamodern Gremlin of Cradle: Influence Map
 
 ```mermaid
 flowchart TD
