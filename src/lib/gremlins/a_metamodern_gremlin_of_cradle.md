@@ -163,7 +163,11 @@ flowchart TD
   BUILDERS ==>|embodies| CRIT
   MEGASTRUCTURE ==>|embodies| CRIT
 
-  CONCEAL ==>|reveals| KARMA
+  CONCEAL -->|reveals| KARMA
+  IMPERIAL -.->|embodies| KARMA
+  SABOTAGE -.->|embodies| KARMA
+  FALL -.->|embodies| KARMA
+  PRISON -.->|embodies| KARMA
 
   MEGASTRUCTURE ==> THESIS
   CONCEAL ==> THESIS
