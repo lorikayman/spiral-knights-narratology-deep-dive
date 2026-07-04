@@ -81,7 +81,7 @@ flowchart TD
 
   subgraph THEMES["Themes"]
     direction TB
-    METAMODERN["Metomodern oscillation:
+    METAMODERN["Metamodern oscillation:
       enthusiasm<->horror,
       comedy<->serious"]
     HUMAN["Humanity of Gremlins:
