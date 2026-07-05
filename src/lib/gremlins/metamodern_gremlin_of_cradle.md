@@ -128,7 +128,7 @@ flowchart TD
   GREMLINS_1943 -->|artificial habitat becomes megastructure by| GREMLINS
   MEGASTRUCTURE -.->|provides| PRISON
   GREMLINS_1943 -.->|provides habitat reinvented as| MEGASTRUCTURE
-  GREMLINS_1943 ->|provides wartime struggle escalated into| IMPERIAL
+  GREMLINS_1943 -->|provides wartime struggle escalated into| IMPERIAL
 
   PAST -->|fall from grace| IMPERIAL
   FALL -->|reveals| PAST
