@@ -139,6 +139,7 @@ flowchart TD
   SABOTAGE -->|manifests| FALL
   IMPERIAL -->|provides| CONCEAL
   SABOTAGE -->|reveals| CONCEAL
+  GREMLINS_1943 -->|Horrors of wartime artifice become existential| CONCEAL
 
   %% story
   GREMLINS -->|functions as| ANTAGONISTS
