@@ -7521,7 +7521,7 @@ This framework of curse as an element of fantasy-flavoured thermodynamics would 
 
 ### _Chapter `IX`_ Gremlin Empire
 
-> _"It is the DUTY of every gremlin to repel the metal intruders! Every Gremlin must work to destroy Haven. Cradle belongs to us! Every Gremlin must remain LOYAL to King Tinkinzar and the Crimson Order. The Iron Law must be obeyed!"_
+> _"It is power you seek? A fury of a burning star bound in steel? I will show you both!"_
 
 We were noting different elements of Gremlin technology, society, and what came of them. But in order to attain the fullest and deepest understanding of Gremlin civilization, we need to analyze its history, its past and present.
 
@@ -13357,6 +13357,15 @@ Those components, once they are recognized, are placed onto spectrums, such as m
 Cradle and Clockworks are characterized by a synergy of multiple environments, "places," or symbols with archetypical images at their foundations with feel, mood, and quality representative of different themes within an encompassing system, wherein each of those elements acknowledges and is acknowledged by other elements of the system. This feedback allows them not only to coexist, but to influence each other and invoke the aforementioned sense of synergy emerging from spacial, temporal, and causal interconnectedness both into the past, as myths, and into the present and future, as modern retellings of those myths.
 
 Those mental images emerge from experiences of exploration through the perspective of an outsider, for whom this setting is unique by the fact of presenting to them a manifested potential their Universe offers by concealing its extremes if explored completely and mastered.
+
+The above triad and its wiring, the bidirectional relations between tyhose essentials are then rendered from an abstract theory into reality in this concrete instance of a setting.
+
+The setting is made real in the literal, aesthetical and metaphysical state of cradle, in its factions present inside and outside of cradle but locked in on its reclamation, with accompanied conflicts. This living state is then found through isoran point of view.
+
+The exact way and method this schematic, being a set of restrictions and a harness, makes real an emergent set of abstract concepts is found in the specifics and broad relations we have discussed above.
+
+Through this approach the setting becomes systemically explicable and symbolically resonant artifact of embedded into it themes. And when it is disected, archetypal currents reveal themselves finally allowing for an aesthetical system to be instinctually acknowledged.
+
 
 ---
 
