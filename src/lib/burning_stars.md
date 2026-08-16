@@ -12130,7 +12130,7 @@ Cradle is presented through Isoran perspective as the greatest wonder Isorans --
 
 In addition to challenging Isoran worldview and understanding of their Universe's laws, Cradle's position becomes a tangible and physical extreme which challenges Isorans in their physical abilities.
 
-In this regard, we propose this setting is most reminiscent not of megastructure of `Blame!` which we had discussed in [relation to Clockworks' engineering and architecture specifically](#clockwork-pillars-and-skydomes), but **the Abyss of Made in Abyss** -- this comparison and thematic oscillation between marginally different environments will explored within Cradle and then compared against aforementioned settings.
+In this regard, we propose this setting is most reminiscent not of megastructure of `Blame!` which we had discussed in [relation to Clockworks' engineering and architecture specifically](#clockwork-pillars-and-skydomes), but **the Abyss of Made in Abyss** -- this comparison and thematic oscillation between marginally different environments will be explored within Cradle and then compared against aforementioned settings.
 
 Indeed while _Made in Abyss_ came after Spiral Knights, its Universe possesses a few essentials which would allow us to further characterize and distinguish Spiral Knights in its themes.
 
@@ -12142,14 +12142,14 @@ As we noted on the challenge from Isoran perspective, Cradle inherently tests th
 
 1. of magic-like physical laws used both _as an arcane craft_ and as _foundation for a magitech technology_;
 2. souls traversing through multiple realms while also being manipulated or captured;
-3. degree, intensity, and variety of manifestations of the laws governing this Universe, such as presence of curses and excess of energy and their influences into present reality confined to Cradle;
+3. degree, intensity, and variety of manifestations of the laws governing this Universe, such as presence of curses and excess of energy and their influence on the present reality as it is confined to Cradle;
 4. eldritch gods' conflicts and their capacity to be physically present within the setting.
 
 With [those states of Cradle metaphysics](#state-of-cradle-metaphysics) we proposed Cradle to be an artificial symbol of World Tree -- Axis Mundi -- within established cosmology, implicitly connecting to most of present realms. Despite Cradle's semi-artificial origin it still incorporates [divine, chaotic, and celestial properties into its nature](#cradle-metaphysics-part-4-universal-laws) manifested through symbolic nature of Sleeper in particular and effects of energy onto the environment.
 
 Presentation of Cradle through Isoran perspective is the _initial step to positioning it as a unique in its composition setting_ inside and outside of the set fictional Universe. The next step, one where the work of setting's establishment and characterization is performed, is achieved by exploration of Cradle through **its contrasting environments while preserving the framing of in-Universe uniqueness** to them.
 
-This motif of exploration is also found in distinguished appearances of the _Layers of the Abyss_ of _Made in Abyss_ and their individual locations the narrative focuses on by following the Hello Abyss team of delvers. Such location are unique when separated from the context of the Abyss or Cradle, but within those contexts present they are **galvanized** _by their confinement and proximity to each other_. We will return to this notion of confinement as we introduce the similarities between the Abyss and Clockworks.
+This motif of exploration is also found in distinguished appearances of the _Layers of the Abyss_ of _Made in Abyss_ and their individual locations the narrative focuses on by following the Hello Abyss team of delvers. Such locations are unique when separated from the context of the Abyss or Cradle; within those contexts, they are **galvanized** _by their confinement and proximity to each other_. We will return to this notion of confinement as we introduce the similarities between the Abyss and Clockworks.
 
 The resulting feedback loop allows for a perpetual sense of exploration of respective settings, be it layers of the Abyss or confined to Cradle regions such as Wildwoods, Scarlet Fortress, Almire, or variations of sky islands, among which one can choose to be invested into their individual locations' existence and history.
 
@@ -12301,7 +12301,7 @@ Most importantly, existence of those landmasses is acknowledged by the megastruc
 
 This is an intentional design choice and purpose of the megastructure -- given Echo Stones' context, to fortify the planet through its transformation -- which recontextualizes the megastructure as an originally benevolent creation with a concrete origin, rather than _only_ one of usurpation in the present, reminiscent of the revelations found in the `NOiSE` prior to `Blame!` An element of nuance is now attributed to this megastructure and therefore its contents and inhabitants.
 
-On the other hand, megastructure can emerge originally as celebration and manifestation of Humanity's abilities. But, as postmodern framing of megastructure demonstrates, such as `Blame!`, this period of time is usually long overshadowed by image of the megastructure as embodiment of industrialization.
+On the other hand, megastructure can emerge originally as celebration and manifestation of humanity's abilities. But, as postmodern framing of megastructure demonstrates, such as `Blame!`, this period of time is usually long overshadowed by image of the megastructure as embodiment of industrialization.
 
 This positive period of time we have established through [conceptualization of Early Gremlin Empire](#consoles-part-4-architecture-of-early-gremlin-empire), a period of total synchronization between the material and Gremlins, and the divine -- the Core -- before the "prison" narrative was established.
 
@@ -12329,7 +12329,7 @@ Both unconnected, diverse narratives from megastructure and settings' designs ev
 
 Stories are mostly self-contained as they are confined to the regions, even when separated from the designs of the setting of a rank mission progression. In this context and given above prerequisites **Cradle becomes a gallery for regions' settings and a tool to explore their stories**, each set in a different epoch. And then exploration of those regions _grants greater narrative weight to the Clockworks as the scaffolding, fortress, and confinement for them_.
 
-The setting of Cradle, when separated from prior stories is positioned in a sliding scale or a chart from _classical to post-modern narratives_, and then measured by a their _idealistic to cynical nature_. Those relations, when mapped onto a are relative to each other, but **their sum total is what creates the character of the megastructure**.
+The setting of Cradle, when separated from prior stories is positioned in a sliding scale or a chart from _classical to post-modern narratives_, and then measured by a their _idealistic to cynical nature_. Those relations, when mapped onto a chart, are relative to each other, but **their sum total is what creates the character of the megastructure**.
 
 In order to identify and measure those properties, we will rely on the architecture of the setting -- its regions and the megastructure -- through tropes such as _steampunk to dieselpunk dynamics as the shorthand for those collections of ideas and beliefs those narratives tell_, as they exist within a characteristic design of Clockworks, using those corresponding principles to mark elements of the megastructure and the accompanied stories or "places."
 
@@ -12351,8 +12351,8 @@ Those stories and regions exist within a setting and physical confinement of meg
 
 [▄▀▌▚▌▞▌▀▌▚▌▗▌▚█▖▚]{.conlang}
 
-- Undeath, as a symbol of death with physicality and presence, counter to its inevitability, is prevalent and common with many smaller settings capable of organically accommodating it within the above established system, from Weird West to futurism _on a scale of low-tech to high-tech_, _more fantasy-driven to more fantastic_.
-- In the systems of classical elements of water, fire, earth, and air a fifth element is an iteration or variation on the concept of ether or primordial void and alike, representative of a "soul" of all matter being a separate element. In case of Spiral Knight, this systems remains 2-layered, as there are systems of damage types and elements proper.
+- Undeath, as a symbol of death with physicality and presence, counter to its inevitability, is prevalent and common across many smaller settings capable of organically accommodating it within the above-established system, from Weird West to futurism _on a scale of low-tech to high-tech_, _more fantasy-driven to more fantastic_.
+- In the systems of classical elements of water, fire, earth, and air a fifth element is an iteration or variation on the concept of ether or primordial void and alike, representative of a "soul" of all matter being a separate element. In case of Spiral Knights, this system remains 2-layered, as there are systems of damage types and elements proper.
 - Alchemy and other forms of magitech emerge from preestablished metaphysics as a common tool for production of goods which extends from a different set of physical laws of varying complexity, allowing both for magic, occult symbolism stemming from iconography and languages of `The Key of Solomon the King` fitting well with its application by Underworld and Apocrea, and more utilitarian application in the form of magitech.
 
   In this regard [sufficiently analyzed magic as a trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/SufficientlyAnalyzedMagic) is applicable to [Isorans](#utilitarian-alchemy), [Gremlins](#clockworks-megastructure-part-1-magitech), [Owlites](#dread-seal-part-2-restrictions), and [Devilites](#ritual-circles-circle-of-art-pentacles).
@@ -12363,7 +12363,7 @@ Those stories and regions exist within a setting and physical confinement of meg
 
 [▄▌▟▌▚▌▙▌▟▌▚▌▀▚█▘ ▖▖▜ ▄▌▟▞▌▟▘▌▜▌▞]{.conlang}
 
-<!--From more abstract principle within the [cosmology](#cosmology) we approach Tortomega, while abandoning the entire system of evolution from dragons, we observe Tortomega as inseparable from their habitation -- Gloaming Wildwoods and arrangement ofr floating islands, as those location present themselves:-->
+<!--From more abstract principle within the [cosmology](#cosmology) we approach Tortomega, while abandoning the entire system of evolution from dragons, we observe Tortomega as inseparable from their habitation -- Gloaming Wildwoods and arrangement for floating islands, as those locations present themselves:-->
 
 - [Uberwald](https://tvtropes.org/pmwiki/pmwiki.php/Main/Uberwald) of Gloaming Wildwoods if Tortodrones and ruins are considered, otherwise it is [Wild Wilderness](https://tvtropes.org/pmwiki/pmwiki.php/Main/WildWilderness). Tortodrones are the case of [Awakening The Sleeping Giant](https://tvtropes.org/pmwiki/pmwiki.php/Main/AwakeningTheSleepingGiant).
 - Tortomega and tortodrones possess theme of coexisting with nature -- as fantastic nature titans and golems respectively.
@@ -12375,12 +12375,11 @@ Those stories and regions exist within a setting and physical confinement of meg
 
 [▄▖▘▌▜▜▚▌▙▖▀▌▚▌▙▌▗▜ ▖▖▜ ▄▖▘▌▜▜▚▌▙▀▌▚▌▙▌▛]{.conlang}
 
-- [City of the Damned](https://tvtropes.org/pmwiki/pmwiki.php/Main/CityOfTheDamned) of Dark Cities. A [Vice City](https://tvtropes.org/pmwiki/pmwiki.php/Main/ViceCity) if not Devilites' presence. Due to presence of Dark Matter, can be considered [Graffiti Town](https://tvtropes.org/pmwiki/pmwiki.php/Main/GraffitiTown).
+- [City of the Damned](https://tvtropes.org/pmwiki/pmwiki.php/Main/CityOfTheDamned) of Dark Cities. A [Vice City](https://tvtropes.org/pmwiki/pmwiki.php/Main/ViceCity) if not for Devilites' presence. Due to presence of Dark Matter, can be considered [Graffiti Town](https://tvtropes.org/pmwiki/pmwiki.php/Main/GraffitiTown).
 - Occultism becomes representative of Underworldly/hellish nature.
-- Undercorp as a corporation in pursuit of strategic usurpation of material realm, a realm of nature, produces anti-human narrative -- [a certain trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilInc).
-- Undercorp, as Underworld, was developing from initially classic occult aesthetics to one of magitech with occult-like themes only within its designs -- presenting a case of their technology evolving alongside other civilizations, while still emerging as a method to treat present physical laws. This evolution is reflected in the aforementioned creation of tortodrones.
-- Narrative of "Hell as corporation" is expanded as a front for a _cosmic horror conspiracy_. The corporation is viewed as a front for eldritch god's actions, through technology derived of [ritual circles](#apocrean-ritual-circles) and [graviton portals](#origin-of-graviton-technology).
-
+- Undercorp as a corporation in pursuit of strategic usurpation of the material realm -- a realm of nature -- produces an anti-human narrative -- [a certain trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilInc).
+- Undercorp, as Underworld, developed from initially classic occult aesthetics to one of magitech with occult-like themes only within its designs -- presenting a case of their technology evolving alongside other civilizations, while still emerging as a method to treat present physical laws. This evolution is reflected in the aforementioned creation of tortodrones.
+- The narrative of "Hell as corporation" is expanded as a front for a _cosmic horror conspiracy_. The corporation is viewed as a front for an eldritch god's actions, through technology derived from [ritual circles](#apocrean-ritual-circles) and [graviton portals](#origin-of-graviton-technology).
 ##### Valkyries / Owlites
 
 [▄▖▗▘▌▗▌▘▖▚▌▙▞▚▌▞ ▖▖▜ ▄▌▚▖▀▌▗▞▌▟▚▌▞]{.conlang}
@@ -12422,7 +12421,7 @@ Those stories and regions exist within a setting and physical confinement of meg
 
   Praising recounts of this Almire in conjunction with benevolent presence of Spirit Mother create an infallible image of a "perfect" kingdom. This image is then further deepened by appearances of restored Almirian architecture reflecting this supernatural attunement, which allows for greater degree of mythologization of that very distant image of a kingdom by the fact of great difference in appearance from present "fallen" Almire.
 
-- King in The Mountain trope being the means of Almire's fall rather than salvation is the driving factor which grants this narrative an emotional depth through transformation of the kingdom into its opposite -- a state resembling Undercorp in its poisonous to natural order existence with consideration of undeath as a phenomenon, but possessing no aggressive intent, instead being replaced with _grief with no reconciliation_. This grief, due to its supernatural origin exists even in undeath, it has no simple methods of resolution, leaving the only option an intervention of a third party -- Isorans.
+- The King in the Mountain trope being the means of Almire's fall rather than salvation is the driving factor which grants this narrative an emotional depth through transformation of the kingdom into its opposite -- a state resembling Undercorp in its poisonous to natural order existence with consideration of undeath as a phenomenon, but possessing no aggressive intent, instead being replaced with _grief with no reconciliation_. This grief, due to its supernatural origin exists even in undeath, it has no simple methods of resolution, leaving the only option an intervention of a third party -- Isorans.
 
   The contrast between those two states and a simple but treacherous path from one to another is the reason for the investment into this narrative.
 
@@ -12439,16 +12438,16 @@ This position of Kats is underpinned by the common habitat of heavenly kingdom o
 
 [▄▘▌▛▌▚▀▌▙▚▘ ▘▌▜▜ ▄▚▌▗▜▌▙▞▌▟▀▙ ▄█▌▚▜▌▞]{.conlang}
 
-- Reality as malleable medium can be bent -- this paradigm is exclusive to eldritch gods, Apocrea in particular. In lesser manner -- to the Swarm through removal of observed certainty of the gates in-Universe by introducing Unknown Passage as a change from standard route in the context of [It Came From Below](https://wiki.spiralknights.com/It_Came_From_Below) and Nexus leading to the Shrouded Plateau of Shroud of Apocrea mission. Apocrea also manifests its realm in Haven's Town Square.
+- Reality as a malleable medium can be bent -- this paradigm is exclusive to eldritch gods, Apocrea in particular. In a lesser manner, so too does it apply to the Swarm through removal of observed certainty of the gates in-Universe by introducing Unknown Passage as a change from standard route in the context of [It Came From Below](https://wiki.spiralknights.com/It_Came_From_Below) and Nexus leading to the Shrouded Plateau of Shroud of Apocrea mission. Apocrea also manifests its realm in Haven's Town Square.
 - Presence of eldritch gods is presence of concealed final states of the world, the way the world must be shaped:
   - Swarm, an Eldritch Abomination, desires consumption
   - Sleeper, as a benevolent deity, desires a return to a balance across the celestial hierarchy of realms.
-  - Apocrea, as an avatar of negation, works towards retraction of existing complexity of the world.
+  - Apocrea, as an avatar of negation, seeks the undoing of existing complexity of the world.
 
 - Cosmic mechanics of souls contribute to yet-to-be-seen concept of an eldritch device capable of negating existence.
 - As souls, being consciousnesses, still function as fuel and source of energy.
 - Eldritch deities are presented as unknowable in-Universe, while their motivations can be in reality deduced.
-- Appearances of eldritch deities rely on the presentation through abstract or basic shapes -- cubes, spheres, or squares. Simplicity of the shape their appear through makes them more alienating from designs of material realm, like the souls or the Swarm avatar.
+- Appearances of eldritch deities rely on the presentation through abstract or basic shapes -- cubes, spheres, or squares. Simplicity of the shape they appear through makes them more alienating from designs of material realm, like the souls or the Swarm avatar.
 
 #### At the Boundaries of the Megastructure
 
@@ -12456,7 +12455,7 @@ This position of Kats is underpinned by the common habitat of heavenly kingdom o
 
 Once regions are established in their contrast to each other and the Clockworks, they are meant to connect with the megastructure in a physical form which is representative of the megastructure and its architecture. Otherwise, the sense -- a suspension of disbelief -- of a confined presence of such varying environments would be eroded by lack of physical transition.
 
-In our case, this transition is firmly established though elevators always present at the start and the end of the depth, reflected in the elevator route of the Arcade Gates or other missions. Furthermore, rank missions allow for a possibility of more descriptive means of establishing those regions' presences, such cases being Firestorm Citadel, Vile Engine, or Royal Jelly Palace.
+In our case, this transition is firmly established through elevators always present at the start and end of each depth, reflected in the elevator route of the Arcade Gates or other missions. Furthermore, rank missions allow for a possibility of more descriptive means of establishing those regions' presences, such cases being Firestorm Citadel, Vile Engine, or Royal Jelly Palace.
 
 The transition in some cases may be restricted only to an elevator, such case being Gloaming Wildwoods, but some instances allow for megastructure's presence to establish itself within those environments. Those instances allow for far more extensive characterization of Clockworks on all aspects -- from its architecture, its patterns of integration into various environments, and the resulting from bi-directional influence of one onto another environment, which now carries both industrial and urban designs of Clockworks and natural environments of what it integrates with.
 
@@ -12464,21 +12463,21 @@ The first and more widespread example are the compounds, as they are present wit
 
 In the same notion other regions can be explored further by identifying the way alterations to them are made in conjunction with the transitions into the surrounding megastructure:
 
-- Gloaming Wildwoods. The woods as well as occasional caverns present a case of Clockworks not being present across entirety of planet's volume, allowing for some areas to remain as if they were unaffected by the presence of the megastructure apart from, as much as other regions, be vertically arranged through elevators.
+- Gloaming Wildwoods. The woods as well as occasional caverns present a case of Clockworks not being present across the entirety of the planet's volume, allowing for some areas to remain as if they were unaffected by the presence of the megastructure apart from, like other regions, being vertically arranged through elevators.
 
   Wildwoods are the homeland of Tortomega, centering them around themes of earth and nature, with later addition of minerals.
 
-  It is also a location which was a place of shadow damage warfare through introduction of [cursed miasma](#miasma), and [Grim Gates as points of Underworld mobilization](#grim-gates-an-introduction).
+  It is also a location that served as the site of shadow damage warfare through introduction of [cursed miasma](#miasma) and [Grim Gates as points of Underworld mobilization](#grim-gates-an-introduction).
 
   This contrast of nature and shadow over a mineral allows for tortodrones, as artificial constructs bearing both of those properties in all their complexity to exist. Presence of megastructure is felt through reemergence of Devilite presence, found through tortodrones as Grim Gates appear across Clockworks.
 
-- Scarlet Fortress is a castle which exists despite lack of its inhabitants. Yet, compared to explicitly haunted state of Candlestick Keep, the fortress remains practically untouched, as a semi-safe location with research taking place across it, such being the Eternal Study.
+- Scarlet Fortress is a castle that exists despite lacking its inhabitants. Yet, compared to explicitly haunted state of Candlestick Keep, the fortress remains practically untouched, as a semi-safe location with research taking place across it, such being the Eternal Study.
 
   Despite its size, Clockworks can still be distinctly seen in the background, but they are not as integrated into the fortress -- similar to Almire and the Academy also by the fact of being uncontained within a skydome. It is a case of a kingdom floating freely across Clockworks, which allows us to group it with the other fallen kingdom -- Almire: its necropolis, graveyards, and cavern with the citadel itself; and Owlites, to whom we have attributed the castles.
 
-  The character of its associated names, coupled with generally **preserved, undeterred, royal aesthetics** makes it a unique location to visit. Most importantly, as we pointed out aspect of royalty, the other component makes its impression most distinct while solidifying it through _contrast with the complexity of industrial nature of Clockworks_ -- the **fortress is untouched by time**, even more explicitly than any other location with a capacity to appear deteriorating -- subjected to change, while the inhabitants of the fortress had vanished, leaving the fortress as it was for them.
+  The character of its associated names, coupled with generally **preserved, undeterred, royal aesthetics** makes it a unique location to visit. Most importantly, as we pointed out the aspect of royalty, the other component makes its impression most distinct while solidifying it through _contrast with the complexity of industrial nature of Clockworks_ -- the **fortress is untouched by time**, even more explicitly than any other location with a capacity to appear deteriorating and subjected to change, while the inhabitants of the fortress had vanished, leaving the fortress as it was for them.
 
-  Scarlet Fortress had remained unchanged since disappearance of its owners, and its scale, comparable to a megastructure, despite the continuously rearranging nature of the latter, _remains as an preserved image of a bygone era remaining unchanged across time_.
+  Scarlet Fortress had remained unchanged since disappearance of its owners, and its scale, comparable to a megastructure, despite the continuously rearranging nature of the latter, _remains as a preserved image of a bygone era remaining unchanged across time_.
 
   With consideration of the timeline, Scarlet Fortress, as the remains of heavenly kingdom, presents the implicit power of the Clockworks' technology through the ability to loosely contain it in the Clockworks.
 
@@ -12498,13 +12497,13 @@ In the same notion other regions can be explored further by identifying the way 
 
 - Firestorm Citadel has a less explored design as it belongs to a different culture.
 
-  It is a cursed fortress and center of a fallen kingdom. It, as much as heavenly kingdom, floats across the volume of the megastructure. The fortress is surrounded by remnants of Owlite civilization, while attracting fire-themed monsters across the megastructure due to its cursed existence.
+  It is a cursed fortress and center of a fallen kingdom. Like the heavenly kingdom, it floats across the volume of the megastructure. The fortress is surrounded by remnants of Owlite civilization while attracting fire-themed monsters across the megastructure due to its cursed existence.
 
   The citadel exists in a stasis similar to the Scarlet Fortress. But, while for Scarlet Fortress this stasis is of its conflict appearing to be gone, Firestorm Citadel exists through particularly grim combination of grief perpetuated by supernaturality of curse, therefore offering no reconciliation for it.
 
-  Almire's narrative appear more believable due to presence of concrete characters with their own perspectives found across various missions. As the curse hold the citadel through its master, the citadel characterizes nature of curse through curse's manifestations. Those aspects are further amplified by introducing Darkfire Firestorm Citadel.
+  Almire's narrative appears more believable due to presence of concrete characters with their own perspectives found across various missions. As the curse holds the citadel through its master, the citadel characterizes the nature of curse through curse's manifestations. Those aspects are further amplified by introducing Darkfire Firestorm Citadel.
 
-  Contrary to bygone or, in part, reconciled nature of the Owlite kingdom even when events regarding Black Kats are considered, Firestorm Citadel continues to exit in conflict, where this conflict is the very obstacle both for Isorans and Gremlins. This conflict allows for a much smaller degree of Clockworks to be present, being the elevators and the console, but, in return, this very property of Firestorm Citadel as a fortress allows it to be utilized by the megastructure for a single function of securing the console despite the source of this protection being far darker in its tone.
+  Contrary to bygone or, in part, reconciled nature of the Owlite kingdom even when events regarding Black Kats are considered, Firestorm Citadel continues to exist in conflict, where this conflict is the very obstacle both for Isorans and Gremlins. This conflict allows for a much smaller degree of Clockworks to be present, being the elevators and the console, but, in return, this very property of Firestorm Citadel as a fortress allows it to be utilized by the megastructure for a single function of securing the console despite the source of this protection being far darker in its tone.
 
   As noted earlier, this very notion allows for elevation and deepening of the relation between the megastructure and integrated regions in respect to specifics of each region.
 
@@ -12516,24 +12515,24 @@ In the same notion other regions can be explored further by identifying the way 
 
 In emergence of video games characterized by megastructures, we are presented an array of settings to which Spiral Knights can now be compared against. Through this evaluation we can identify Cradle's second essential -- the Clockworks megastructure.
 
-Megastructure -- Clockworks -- is the very foundation of the setting outside of Isoran perspective, while may be considered secondary, here it will be explored in conjunction with character of Gremlins, eventually transitioning into their analysis. Here we consider Cradle inseparable from the megastructure of Clockworks due to the narrative and technical framing of both as a single mechanism -- Cradle as a fortress-planet.
+The megastructure -- Clockworks -- is the very foundation of the setting outside of Isoran perspective, while it may be considered secondary. Here it will be explored in conjunction with character of Gremlins, eventually transitioning into their analysis. Here we consider Cradle inseparable from the megastructure of Clockworks due to the narrative and technical framing of both as a single mechanism -- Cradle as a fortress-planet.
 
-From the perspective of the knight's progression through rank missions the megastructure exists in the background as the glue to connect multiple settings -- the regions. It is experienced as a transition through story arcs and their corresponding locations, i.e. the preparations to infiltrate Firestorm Citadel, investigations regarding Royal Jelly Palace, and research into Ironclaw Munitions Factory.
+From the perspective of the knight's progression through rank missions, the megastructure exists in the background as the glue connecting multiple settings -- the regions. It is experienced as a transition through story arcs and their corresponding locations, i.e. the preparations to infiltrate Firestorm Citadel, investigations regarding Royal Jelly Palace, and research into Ironclaw Munitions Factory.
 
 While all those plots are elements of the ultimate goal of reaching the Core and tracking the Alpha Squad, Clockworks don't get exceptional focus by the characters, accepted as a matter of fact, on top of which the regions are seen as more so peculiar. On the contrary, it is when locations essential to the megastructure are encountered, it briefly regains its relevancy and interest of characters revolving around the consoles, the Core, Gremlins, and the Swarm, all of which regain relevancy ones all the obstacles to the Core are passed through.
 
 In order to properly discuss the megastructure, we should start from Clockworks identity devoid of its regions:
 
-- Isoran narrative is driven by a need for energy. The megastructure, on the contrary, contains limitless energy, affirming its unique cosmic and metaphysical position, establisher early on though the statements and samples of its influence, such as transformation of battle sprites.
+- Isoran narrative is driven by a need for energy. The megastructure, on the contrary, contains limitless energy, affirming its unique cosmic and metaphysical position -- established early on through statements and samples of its influence, such as transformation of battle sprites.
 - The megastructure is maintained by a civilization of builders, whose archetype is reminiscent of fantasy [goblins](https://tvtropes.org/pmwiki/pmwiki.php/Main/OurGoblinsAreDifferent) with an accent on militarism, subterranean habitation within the megastructure, and semi-hazard nature of their habitations.
-- Megastructure presents [dieselpunk](https://tvtropes.org/pmwiki/pmwiki.php/Main/DieselPunk) of deconstruction zones, steampunk of the skydomes, and the sci-fi aesthetic of the pillars. Science fiction manifests fully through more advanced gremlin designs, transitioning if not occult, but magic-powered. In reality, Clockworks' facilities are powered by supernatural essences, it is a magic-powered technology, magitech.
-- The eldritch or cosmic horror narrative instrumental to the nature of the limitless energy. It manifests in megastructure's slow decline and a trope of [Leaking Can Of Evil](https://tvtropes.org/pmwiki/pmwiki.php/Main/LeakingCanOfEvil) due to Swarm's presence. Coincidentally, this megastructure contains civilization either being long gone or left in a state of crisis, including Gremlins themselves with a drawn out end in the form of Iron Law and Swarm's eventual ascent from the Core-adjacent depths. This directly leads to the next point.
-- [Tone shift](https://tvtropes.org/pmwiki/pmwiki.php/Main/ToneShift) is not a part of the subjective Isoran narrative and the progression through the megastructure, but an essential part of the megastructure.
+- The megastructure presents [dieselpunk](https://tvtropes.org/pmwiki/pmwiki.php/Main/DieselPunk) of deconstruction zones, steampunk of the skydomes, and the sci-fi aesthetic of the pillars. Science fiction manifests fully through more advanced Gremlin designs, transitioning from if not occult, then magic-powered. In reality, Clockworks' facilities are powered by supernatural essences, it is a magic-powered technology, magitech.
+- The eldritch or cosmic horror narrative is instrumental to the nature of the limitless energy. It manifests in megastructure's slow decline and a trope of [Leaking Can Of Evil](https://tvtropes.org/pmwiki/pmwiki.php/Main/LeakingCanOfEvil) due to Swarm's presence. Coincidentally, this megastructure contains civilizations either long gone or left in a state of crisis, including Gremlins themselves with a drawn-out end in the form of Iron Law and Swarm's eventual ascent from the Core-adjacent depths. This directly leads to the next point.
+- A [tone shift](https://tvtropes.org/pmwiki/pmwiki.php/Main/ToneShift) is not a part of the subjective Isoran narrative or the progression through the megastructure, but an essential part of the megastructure itself.
 
-  From the surface to the Core is a case of [Ascended Fridge Horror](https://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedFridgeHorror). Given Swarm's nature as [manmade eldritch being](https://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchHorror), it is also a case of [Cerebus Syndrome](https://tvtropes.org/pmwiki/pmwiki.php/Main/CerebusSyndrome) across rank missions.
+  The descent from the surface to the Core is a case of [Ascended Fridge Horror](https://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedFridgeHorror). Given Swarm's nature as a [manmade eldritch being](https://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchHorror), it is also a case of [Cerebus Syndrome](https://tvtropes.org/pmwiki/pmwiki.php/Main/CerebusSyndrome) across rank missions.
 
-- Regular Clockworks appear peaceful and operational as intended, which contrasts the abnormal state of those locations when interjected by the Swarm, further contributing to the cosmic horror.
-- This peaceful character of Clockworks, as stated to be the tome shift, attains same qualities on its own scale in the form of the Core.
+- Regular Clockworks appear peaceful and operational as intended, which contrasts with the abnormal state of those locations when overrun by the Swarm, further contributing to the cosmic horror.
+- This peaceful character of Clockworks, as part of the tone shift, attains similar qualities on its own scale in the form of the Core.
 - [The Core](#design-of-cores-shell) and its [terminal](#introduction-to-the-core-terminal) specifically at Core's sealed state and devoid of player's experience of the Swarm bear motif of incomprehensible engine. This initial character of the Core as a "place" is established both through its appearances and Isoran narrations framing it as the heart.
 
   We include the Core into the character of the megastructure due to the same notion of a tone shift essential to the setting and the fact that it is the last location across any Arcade or Shadow Lairs run.
@@ -12642,7 +12641,7 @@ This exact property of uncontrolled, potentially chaotic and suspended existence
 
 In case of Cradle, we can consider more mundane Undercorp, but it is an invader, outsider to Cradle. Then there is Apocrean realm, which has similar to Underworld themes, apart from Apocrea's goal to annihilate reality. Lastly, its the Swarm. As discussed earlier, the Swarm is another well defined instance of eldritch horror, but one inherently tied to Clockworks' history.
 
-The Swarm, through its framing, we believe, exists through a principle shared with the other instances of this trope -- of **a manmade creation within the manmade megastructure**, _created by past mistakes of the builders_.
+The Swarm, through its framing, we believe, exists through a principle shared with the other instances of this trope -- of **a manmade creation within a manmade megastructure**, _created by past mistakes of the builders_.
 
 It is the nature and components which allow this eldritch entity to exist in the first place, the mystery of its origin being one of its defining factors. Those components are either not intended to be discovered or require a throughout investigation to be performed on the medium in order to uncover it, leading this mystery to be one of the latest in the setting to be revealed.
 
@@ -12662,7 +12661,7 @@ Such actor must breach any established systems within the megastructure, this na
 
   With introduction of Watcher campaign the Rot attains an avatar, the Prince residing at the Throne of Outer Rim. The rest of his arc throughout Watcher's campaign is framed as his kingdom being expanded by the Watcher as the rot overtakes any accessible location both in the past and in the future.
 
-  While Swarm avatar may be comparable to the Prince, it is only their uniqueness and mimicry of respective entities allows us to group them together at that point. Currently, the Swarm as much as the Rot prior Watcher's campaign is initially framed to possess no motive other than consumption.
+  While Swarm avatar may be comparable to the Prince, it is only their uniqueness and mimicry of respective entities allows us to group them together at that point. Currently, the Swarm as much as the Rot prior to Watcher's campaign is initially framed to possess no motive other than consumption.
 
   In regards to the mimicry, the Prince appears to mimic an iterator puppet while residing within the rotted Star Catcher rather than an iterator can. It appears reminiscent of a sunflower, compared to more alien appearances of rot, other than one particular instance within the `Unfortunate Evolution`.
 
@@ -12736,7 +12735,7 @@ The Swarm on the other hand is not a natural entity in cosmogonic sense -- it is
 
 As with Apocrea, Swarm's actors are agents of chaos, but for the Swarm, the opposition is existence without acknowledgement of self as the single entity existing in relation with it.
 
-Body and cosmic horror of the Swarm -- through Void beings and their contras to the natural originals -- is far more notable even when undeath as a trope is excluded from this spectrum of horrors. It is then Void monsters whose origin sets a varying degree of viscera and detail of this specific category of body horror emerging through the art style. And since it is left up to interpretation, the potential for the horror the setting and game present through their aesthetics become far more expansive when focused upon and explored.
+Body and cosmic horror of the Swarm -- through Void beings and their contras to the natural originals -- is far more notable even when undeath as a trope is excluded from this spectrum of horrors. It is then Void monsters whose origin lends a varying degree of visceral detail to this specific category of body horror as expressed through the art style. And since it is left up to interpretation, the potential for the horror the setting and game present through their aesthetics become far more expansive when focused upon and explored.
 
 ##### Water and Void
 
@@ -12748,7 +12747,7 @@ The case of Void in Spiral Knights is this exact case, as the Void, albeit coupl
 
 We have briefly noted a water-like composition of the void where it is observed, but, is we look further, the water symbolism allows for, across mythology, a specifically deep water, to be associated with the concept of unknown.
 
-As we get Unknown Passage as the definitive unknown location of at that point largely explored Clockworks, as Swarm's presence emerges from below, coupled with the descend narrative, it frames the water-like quality of the void as one, we believe, attributed to the depths of an ocean, a metaphorical abyss. This is a noteworthy contributing factor to the impression of the Swarm as an entity which embodies those themes of _unknowable_, as pointed n that direction by the Echo Stones.
+As we get Unknown Passage as the definitive unknown location of at that point largely explored Clockworks, as Swarm's presence emerges from below, coupled with the descend narrative, it frames the water-like quality of the void as one, we believe, attributed to the depths of an ocean, a metaphorical abyss. This is a noteworthy contributing factor to the impression of the Swarm as an entity which embodies those themes of _unknowable_, as pointed in that direction by the Echo Stones.
 
 And then we compare those qualities to an arrangement of fictional settings which introduce void in varying degree of hostility to the rest of existence. We have already discussed the similarities between Rot of Rain World and the Swarm. Here we intend to point out another similarity which we argued to emerge from its symbolic value -- of _void being the supernatural abyss of unknown water_.
 
@@ -12783,7 +12782,7 @@ Through that approach, we can identify instances of dodging projectiles:
 - Loose patterns of lasers on the arena of Big Iron of Ghost in The Machine. Ghost in The Machine already has a few arenas, where projectiles possess patterns as an environmental hazard.
 - Undead spookats present a need in dodging projectiles, finalizing in Margrel' fight. While there is no distinct, larger pattern, Margrel with summoned black kats presents a case of a need to be constantly aware of the battle arena and its layout, despite lack of distinct pattern.
 - Swarm possesses properties of bullet hell to a degree, mostly due to content and arena-wide presence of turrets. While those do not have a pattern to their attacks, the presence of bullets should be acknowledged. Relative development of this design, we suggest, can be found in the final arena of Dreams and Nightmares, as 4 turrets are being orbited by projectiles in a simple pattern, a well as presence of Void Souls requires managing and monitoring the arena, using similar to bullet hell strategies.
-- Cursed magic of Lord Vanaduke's mask at his intermediate stages. This is most direct, distinct, and undeluded by other mechanics instance of bullet hell to date.
+- Cursed magic of Lord Vanaduke's mask at his intermediate stages. This is most direct, distinct, and undeluded by other mechanics, most direct instance of bullet hell to date.
 
 Lord Vanaduke presents the highest importance to this subject. While we have yet to cover the concept, which explains the symbolic significance of Firestorm Citadel -- Katabasis, a descend into metaphorical Underworld -- Firestorm Citadel present itself as the final bastion in localized "hell," a milestone.
 
@@ -12801,11 +12800,11 @@ Compared to solitude of `Blame!` as out referential megastructure, Cradle has ph
 
 We have covered extensively the importance of Gremlins to the story, the timeline behind present setting, and to the image of the setting as it presents itself upfront.
 
-As we have have discussed other species, either more obscure or less prevalent to the current time frame, such as Valkyries, Owlites, Kats or dragons, Gremlins exist not in a secondary, completed and in part isolated narrative visited outside of the megastructure, but in the present open-ended system (due to unfinished state of the story) as the first major civilization and threat encountered on Cradle from the beginning of the game, its tutorial. Gremlins are most native to Clockworks due to consistent coupling of the two.
+As we have have discussed other species, either more obscure or less prevalent to the current time frame, such as Valkyries, Owlites, Kats or dragons, Gremlins exist not in a secondary, completed and in part isolated narrative visited outside of the megastructure, but in the present open-ended system (due to unfinished state of the story) as the first major civilization and threat encountered on Cradle starting with the game's tutorial. Gremlins are most native to Clockworks due to their consistent coupling with it.
 
 From this association of Gremlins with the megastructure additional tropes, locations, and narratives can be built which contribute both to character depth of Gremlins and the character of the megastructure itself through variety of latter's presences, now identified through intersection with the regions.
 
-As with other species, there is a distinct albeit subjective perception of Gremlins, bourne of their role, appearance, and behaviors within the setting. We intend to explore the elements of that compound image.
+As with other species, there is a distinct albeit subjective perception of Gremlins, borne from their role, appearance, and behaviors within the setting. We intend to explore the elements of that compound image.
 
 ##### An Antagonists: Comic Relief Villains
 
@@ -12825,7 +12824,7 @@ The single-player campaign, when it is completed without a party of four, can fu
 
 [▄▌▟▙▚ ▄▟▖▘▖▜▌▟▘▌▛▌▚▌▞▞▌▟▞▌▚▌▜▝▝▀ ▄▘▌▜▞▌▀▘▌▗▞▌▞▌▟▞▀ ▄▜▚▌▞▞█▌▜]{.conlang}
 
-Gremlins' _animalistic, sharp and jagged through fur-bearing and carnivore features appearance_ coexist with their role as most present and advanced civilization of builders, it is juxtaposed to **civil appearances and non-hostile design of Isorans** as stand-in for humanity and assumed strict through clear definition organization of Spiral Order.
+Gremlins' _animalistic, sharp and jagged through fur-bearing and carnivore features appearance_ coexist with their role as most present and advanced civilization of builders, it is juxtaposed to **civil appearances and non-hostile design of Isorans** as stand-in for humanity and the rigid, clearly defined organizational structure of Spiral Order.
 
 Spiral Order is framed to appear as an opposite to hazardous appearance and designs of Gremlin environments and equipment -- oversized wrenches as weapons, exaggerated tools, grunting sound design, hierarchy with depicted ill-organization, and totalitarian motifs -- contributing to Gremlins' resulting role of comic relief villains.
 
@@ -13364,7 +13363,7 @@ The setting is made real in the literal, aesthetical and metaphysical state of c
 
 The exact way and method this schematic, being a set of restrictions and a harness, makes real an emergent set of abstract concepts is found in the specifics and broad relations we have discussed above.
 
-Through this approach the setting becomes systemically explicable and symbolically resonant artifact of embedded into it themes. And when it is disected, archetypal currents reveal themselves finally allowing for an aesthetical system to be instinctually acknowledged.
+Through this approach the setting becomes systemically explicable and symbolically resonant artifact of embedded into it themes. And when it is dissected, archetypal currents reveal themselves, finally allowing for an aesthetical system to be instinctually acknowledged.
 
 
 ---
